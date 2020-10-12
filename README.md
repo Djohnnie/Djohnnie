@@ -42,6 +42,9 @@ Johnny Hooyberghs is a consultant for Involved since 2014 focusing on .NET archi
 
 ### 2020
 
+* [October - VISUG-XL - Building CLoud Native Applications with .NET 5](https://github.com/Djohnnie/BuildCloudNativeApplicationsWithDotNet5-VisugXL-2020)
+* [October - .NET Developer Days - What is new in .NET 5](https://github.com/Djohnnie/DotNet5-DotNetDeveloperDays-2020)
+* [October - .NET Developer Days - Building Cloud Native Applications with .NET 5](https://github.com/Djohnnie/BuildCloudNativeApplicationsWithDotNet5-DotNetDeveloperDays-2020)
 * [July - Involved Café - AKS Workshop](https://github.com/Djohnnie/InvolvedCafe-AzureKubernetesService)
 * [June - Allphi - .NET Core 3.0 & 3.1](https://github.com/Djohnnie/DotNetCore3-Allphi-2020)
 * [June - NDC Oslo - Quantum Computing](https://github.com/Djohnnie/QuantumComputing-NDC-Oslo-2020)
