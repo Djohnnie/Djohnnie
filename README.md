@@ -14,7 +14,7 @@ Johnny Hooyberghs is a consultant for Involved since 2014 focusing on .NET archi
 * Preparing my talks for [.NET Developer Days 2020](https://net.developerdays.pl/)
 * Staying home due to [COVID-19](https://www.info-coronavirus.be/en/)
 * Playing [Sea of Thieves](https://www.seaofthieves.com/) by myself
-* Playing [Divinity Original Sin II](https://divinity.game/) in co-op with my wife
+* Playing [Divinity Original Sin II](https://divinity.game/) and [For The King](https://ironoakgames.com/) in co-op with my wife
 
 # My Social Media
 
