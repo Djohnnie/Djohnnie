@@ -11,7 +11,7 @@ Johnny Hooyberghs is a consultant for Involved since 2014 focusing on .NET archi
 * Learning about quantum computing and the [Microsoft Quantum Development Kit](https://www.microsoft.com/en-us/quantum/development-kit)
 * Having some fun with .NET Core, [Raspberry Pi](https://www.raspberrypi.org/), and home automation
 * Teaching .NET, C# and quantum computing
-* Preparing my talks for [.NET Developer Days 2020](https://net.developerdays.pl/)
+* Preparing my talk for [VISUG XL](https://www.visug.be/Events/Detail/17)
 * Staying home due to [COVID-19](https://www.info-coronavirus.be/en/)
 * Playing [Sea of Thieves](https://www.seaofthieves.com/) by myself
 * Playing [Divinity Original Sin II](https://divinity.game/) and [For The King](https://ironoakgames.com/) in co-op with my wife
@@ -45,6 +45,7 @@ Johnny Hooyberghs is a consultant for Involved since 2014 focusing on .NET archi
 * [October - VISUG-XL - Building CLoud Native Applications with .NET 5](https://github.com/Djohnnie/BuildCloudNativeApplicationsWithDotNet5-VisugXL-2020)
 * [October - .NET Developer Days - What is new in .NET 5](https://github.com/Djohnnie/DotNet5-DotNetDeveloperDays-2020)
 * [October - .NET Developer Days - Building Cloud Native Applications with .NET 5](https://github.com/Djohnnie/BuildCloudNativeApplicationsWithDotNet5-DotNetDeveloperDays-2020)
+* [October - .NET Developer Days - Quantum Computing Deep Dive](https://github.com/Djohnnie/QuantumComputing-DotNet-DeveloperDays-2020)
 * [July - Involved Café - AKS Workshop](https://github.com/Djohnnie/InvolvedCafe-AzureKubernetesService)
 * [June - Allphi - .NET Core 3.0 & 3.1](https://github.com/Djohnnie/DotNetCore3-Allphi-2020)
 * [June - NDC Oslo - Quantum Computing](https://github.com/Djohnnie/QuantumComputing-NDC-Oslo-2020)
