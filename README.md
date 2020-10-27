@@ -12,6 +12,10 @@ Johnny Hooyberghs is a consultant for Involved since 2014 focusing on .NET archi
 * Having some fun with .NET Core, [Raspberry Pi](https://www.raspberrypi.org/), and home automation
 * Teaching .NET, C# and quantum computing
 * Preparing my talk for [VISUG XL](https://www.visug.be/Events/Detail/17)
+* Preparing my talk for [.NET Conf](https://www.dotnetconf.net)
+* Preparing my talks for [Build Stuff](https://www.buildstuff.events)
+* Preparing my talks for [DevDay](https://devday.be)
+* Preparing my talk for [Update Conference](https://www.updateconference.net)
 * Staying home due to [COVID-19](https://www.info-coronavirus.be/en/)
 * Playing [Sea of Thieves](https://www.seaofthieves.com/) by myself
 * Playing [Divinity Original Sin II](https://divinity.game/) and [For The King](https://ironoakgames.com/) in co-op with my wife
@@ -42,7 +46,16 @@ Johnny Hooyberghs is a consultant for Involved since 2014 focusing on .NET archi
 
 ### 2020
 
-* [October - VISUG-XL - Building CLoud Native Applications with .NET 5](https://github.com/Djohnnie/BuildCloudNativeApplicationsWithDotNet5-VisugXL-2020)
+* [December - NDC Workshops - Building an Educational Game with .NET 5 and AKS](...)
+* [December - Canary Wharf - Quantum, Q# and Azure Quantum](...)
+* [December - AZUG - Q# and Azure Quantum](...)
+* [December - NDC Workshops - Quantum Computing Hands-on](...)
+* [November - Update Conference - What is new in .NET 5 and the future of .NET](...)
+* [November - DevDay - What is new in .NET 5 and the future of .NET](...)
+* [November - Build Stuff - Quantum Computing Deep Dive](...)
+* [November - Build Stuff - Quantum Computing Workshop](...)
+* [November - .NET Conf - Controlling My Home Sauna using .NET 5](...)
+* [October - VISUG-XL - Building Cloud Native Applications with .NET 5](https://github.com/Djohnnie/BuildCloudNativeApplicationsWithDotNet5-VisugXL-2020)
 * [October - .NET Developer Days - What is new in .NET 5](https://github.com/Djohnnie/DotNet5-DotNetDeveloperDays-2020)
 * [October - .NET Developer Days - Building Cloud Native Applications with .NET 5](https://github.com/Djohnnie/BuildCloudNativeApplicationsWithDotNet5-DotNetDeveloperDays-2020)
 * [October - .NET Developer Days - Quantum Computing Deep Dive](https://github.com/Djohnnie/QuantumComputing-DotNet-DeveloperDays-2020)
