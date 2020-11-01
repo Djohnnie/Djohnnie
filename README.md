@@ -54,7 +54,7 @@ Johnny Hooyberghs is a consultant for Involved since 2014 focusing on .NET archi
 * [November - DevDay - What is new in .NET 5 and the future of .NET](...)
 * [November - Build Stuff - Quantum Computing Deep Dive](...)
 * [November - Build Stuff - Quantum Computing Workshop](...)
-* [November - .NET Conf - Controlling My Home Sauna using .NET 5](...)
+* [November - .NET Conf - Controlling My Home Sauna using .NET 5](https://github.com/Djohnnie/MySauna-DotNetConf-2020)
 * [October - VISUG-XL - Building Cloud Native Applications with .NET 5](https://github.com/Djohnnie/BuildCloudNativeApplicationsWithDotNet5-VisugXL-2020)
 * [October - .NET Developer Days - What is new in .NET 5](https://github.com/Djohnnie/DotNet5-DotNetDeveloperDays-2020)
 * [October - .NET Developer Days - Building Cloud Native Applications with .NET 5](https://github.com/Djohnnie/BuildCloudNativeApplicationsWithDotNet5-DotNetDeveloperDays-2020)
