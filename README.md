@@ -11,9 +11,6 @@ Johnny Hooyberghs is a consultant for Involved since 2014 focusing on .NET archi
 * Learning about quantum computing and the [Microsoft Quantum Development Kit](https://www.microsoft.com/en-us/quantum/development-kit)
 * Having some fun with .NET Core, [Raspberry Pi](https://www.raspberrypi.org/), and home automation
 * Teaching .NET, C# and quantum computing
-* Preparing my talk for [VISUG XL](https://www.visug.be/Events/Detail/17)
-* Preparing my talk for [.NET Conf](https://www.dotnetconf.net)
-* Preparing my talks for [Build Stuff](https://www.buildstuff.events)
 * Preparing my talks for [DevDay](https://devday.be)
 * Preparing my talk for [Update Conference](https://www.updateconference.net)
 * Staying home due to [COVID-19](https://www.info-coronavirus.be/en/)
@@ -52,8 +49,8 @@ Johnny Hooyberghs is a consultant for Involved since 2014 focusing on .NET archi
 * [December - NDC Workshops - Quantum Computing Hands-on](...)
 * [November - Update Conference - What is new in .NET 5 and the future of .NET](...)
 * [November - DevDay - What is new in .NET 5 and the future of .NET](...)
-* [November - Build Stuff - Quantum Computing Deep Dive](...)
-* [November - Build Stuff - Quantum Computing Workshop](...)
+* [November - Build Stuff - Quantum Computing Deep Dive](https://github.com/Djohnnie/QuantumComputing-BuildStuff-2020)
+* [November - Build Stuff - Quantum Computing Workshop](https://github.com/Djohnnie/QuantumComputing-BuildStuff-2020)
 * [November - .NET Conf - Controlling My Home Sauna using .NET 5](https://github.com/Djohnnie/MySauna-DotNetConf-2020)
 * [October - VISUG-XL - Building Cloud Native Applications with .NET 5](https://github.com/Djohnnie/BuildCloudNativeApplicationsWithDotNet5-VisugXL-2020)
 * [October - .NET Developer Days - What is new in .NET 5](https://github.com/Djohnnie/DotNet5-DotNetDeveloperDays-2020)
