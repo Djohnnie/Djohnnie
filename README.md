@@ -9,13 +9,15 @@ Johnny Hooyberghs is a consultant for Involved since 2014 focusing on .NET archi
 * Working as a software development consultant for [Involved](https://www.involved-it.be)
 * Staying up-to-date with the latest [.NET](https://dotnet.microsoft.com/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) and [Microsoft Azure](https://azure.microsoft.com/en-us/) stuff
 * Learning about quantum computing and the [Microsoft Quantum Development Kit](https://www.microsoft.com/en-us/quantum/development-kit)
-* Having some fun with .NET Core, [Raspberry Pi](https://www.raspberrypi.org/), and home automation
+* Having some fun with .NET 5, [Raspberry Pi](https://www.raspberrypi.org/), and home automation
 * Teaching .NET, C# and quantum computing
-* Preparing my talks for [DevDay](https://devday.be)
-* Preparing my talk for [Update Conference](https://www.updateconference.net)
+* Preparing for [Hack The Future 2020](https://www.hackthefuture.be/)
 * Staying home due to [COVID-19](https://www.info-coronavirus.be/en/)
 * Playing [Sea of Thieves](https://www.seaofthieves.com/) by myself
-* Playing [Divinity Original Sin II](https://divinity.game/) and [For The King](https://ironoakgames.com/) in co-op with my wife
+* Playing [Divinity Original Sin II](https://divinity.game/) in co-op with my wife
+* Playing [For The King](https://ironoakgames.com/) in co-op with my wife
+* Playing [Quest Hunter](https://www.microsoft.com/en-us/p/quest-hunter/9ppllcjngfl7?activetab=pivot:overviewtab) in co-op with my wife
+* Playing [Rock Band 4](https://www.rockband4.com/) together with my wife
 
 # My Social Media
 
@@ -39,7 +41,7 @@ Johnny Hooyberghs is a consultant for Involved since 2014 focusing on .NET archi
 * [ Microsoft Q# Coding Contest - Summer 2020 - Warmup](https://github.com/Djohnnie/Microsoft-Quantum-Coding-Contest-Summer-2020-Warmup)
 * [ Microsoft Q# Coding Contest - Summer 2020](https://github.com/Djohnnie/Microsoft-Quantum-Coding-Contest-Summer-2020)
 
-## Presentations
+## Presentations and Events
 
 ### 2020
 
@@ -47,6 +49,7 @@ Johnny Hooyberghs is a consultant for Involved since 2014 focusing on .NET archi
 * [December - Canary Wharf - Quantum, Q# and Azure Quantum](...)
 * [December - AZUG - Q# and Azure Quantum](...)
 * [December - NDC Workshops - Quantum Computing Hands-on](...)
+* [November - Hack The Future 2020](https://github.com/Djohnnie/HackTheFuture-DotNet-2020)
 * [November - Update Conference - What is new in .NET 5 and the future of .NET](https://github.com/Djohnnie/DotNet5-UpdateNow-2020)
 * [November - DevDay - What is new in .NET 5 and the future of .NET](https://github.com/Djohnnie/DotNet5-DevDay-2020)
 * [November - Build Stuff - Quantum Computing Deep Dive](https://github.com/Djohnnie/QuantumComputing-BuildStuff-2020)
