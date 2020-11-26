@@ -11,7 +11,7 @@ Johnny Hooyberghs is a consultant for Involved since 2014 focusing on .NET archi
 * Learning about quantum computing and the [Microsoft Quantum Development Kit](https://www.microsoft.com/en-us/quantum/development-kit)
 * Having some fun with .NET 5, [Raspberry Pi](https://www.raspberrypi.org/), and home automation
 * Teaching .NET, C# and quantum computing
-* Preparing for [Hack The Future 2020](https://www.hackthefuture.be/)
+* Preparing for my NDC workshop [Quantum Computing Hands-on with Microsoft Q#](https://ndcworkshops.com/)
 * Staying home due to [COVID-19](https://www.info-coronavirus.be/en/)
 * Playing [Sea of Thieves](https://www.seaofthieves.com/) by myself
 * Playing [Divinity Original Sin II](https://divinity.game/) in co-op with my wife
@@ -48,7 +48,7 @@ Johnny Hooyberghs is a consultant for Involved since 2014 focusing on .NET archi
 * [December - NDC Workshops - Building an Educational Game with .NET 5 and AKS](...)
 * [December - Canary Wharf - Quantum, Q# and Azure Quantum](...)
 * [December - AZUG - Q# and Azure Quantum](...)
-* [December - NDC Workshops - Quantum Computing Hands-on](...)
+* [December - NDC Workshops - Quantum Computing Hands-on](https://github.com/Djohnnie/QuantumComputingHandsOn-NDCWorkshops-2020)
 * [November - Hack The Future 2020](https://github.com/Djohnnie/HackTheFuture-DotNet-2020)
 * [November - Update Conference - What is new in .NET 5 and the future of .NET](https://github.com/Djohnnie/DotNet5-UpdateNow-2020)
 * [November - DevDay - What is new in .NET 5 and the future of .NET](https://github.com/Djohnnie/DotNet5-DevDay-2020)
