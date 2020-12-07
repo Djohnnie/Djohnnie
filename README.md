@@ -14,9 +14,10 @@ Johnny Hooyberghs is a consultant for Involved since 2014 focusing on .NET archi
 * Preparing for my NDC workshop [Building an Educational Game with .NET 5, Unity and AKS](https://ndcworkshops.com/)
 * Staying home due to [COVID-19](https://www.info-coronavirus.be/en/)
 * Playing [Sea of Thieves](https://www.seaofthieves.com/) by myself
+* Playing [Hitman 2](https://hitman.com/global/) by myself
 * Playing [Divinity Original Sin II](https://divinity.game/) in co-op with my wife
 * Playing [For The King](https://ironoakgames.com/) in co-op with my wife
-* Playing [Quest Hunter](https://www.microsoft.com/en-us/p/quest-hunter/9ppllcjngfl7?activetab=pivot:overviewtab) in co-op with my wife
+* Playing [Minecraft Dungeons](https://www.minecraft.net/en-us/about-dungeons) in co-op with my wife
 * Playing [Rock Band 4](https://www.rockband4.com/) together with my wife
 
 # My Social Media
@@ -45,7 +46,7 @@ Johnny Hooyberghs is a consultant for Involved since 2014 focusing on .NET archi
 
 ### 2020
 
-* [December - NDC Workshops - Building an Educational Game with .NET 5 and AKS](...)
+* [December - NDC Workshops - Building an Educational Game with .NET 5 and AKS](https://github.com/Djohnnie/EducationalGame-NDCWorkshops-2020)
 * [December - Canary Wharf - Quantum, Q# and Azure Quantum](https://github.com/Djohnnie/QSharp-and-AzureQuantum-CanaryWharf-2020)
 * [December - AZUG - Q# and Azure Quantum](https://github.com/Djohnnie/QSharp-and-AzureQuantum-AZUG-2020)
 * [December - NDC Workshops - Quantum Computing Hands-on](https://github.com/Djohnnie/QuantumComputingHandsOn-NDCWorkshops-2020)
