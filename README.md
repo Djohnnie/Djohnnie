@@ -46,7 +46,7 @@ Johnny Hooyberghs is a consultant for Involved since 2014 focusing on .NET archi
 ### 2020
 
 * [December - NDC Workshops - Building an Educational Game with .NET 5 and AKS](...)
-* [December - Canary Wharf - Quantum, Q# and Azure Quantum](...)
+* [December - Canary Wharf - Quantum, Q# and Azure Quantum](https://github.com/Djohnnie/QSharp-and-AzureQuantum-CanaryWharf-2020)
 * [December - AZUG - Q# and Azure Quantum](https://github.com/Djohnnie/QSharp-and-AzureQuantum-AZUG-2020)
 * [December - NDC Workshops - Quantum Computing Hands-on](https://github.com/Djohnnie/QuantumComputingHandsOn-NDCWorkshops-2020)
 * [November - Hack The Future 2020](https://github.com/Djohnnie/HackTheFuture-DotNet-2020)
