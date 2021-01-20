@@ -11,7 +11,7 @@ Johnny Hooyberghs is a consultant for Involved since 2014 focusing on .NET archi
 * Learning about quantum computing and the [Microsoft Quantum Development Kit](https://www.microsoft.com/en-us/quantum/development-kit)
 * Having some fun with .NET 5, [Raspberry Pi](https://www.raspberrypi.org/), and home automation
 * Teaching .NET, C# and quantum computing
-* Preparing for my NDC workshop [Building an Educational Game with .NET 5, Unity and AKS](https://ndcworkshops.com/)
+* Preparing for my NDC London talk [Microsoft Q# and Azure Quantum](https://ndc-london.com/agenda/microsoft-q-and-azure-quantum-0w17/0duvbeues1j)
 * Staying home due to [COVID-19](https://www.info-coronavirus.be/en/)
 * Playing [Sea of Thieves](https://www.seaofthieves.com/) by myself
 * Playing [Hitman 2](https://hitman.com/global/) by myself
@@ -39,10 +39,14 @@ Johnny Hooyberghs is a consultant for Involved since 2014 focusing on .NET archi
 
 ## Personal Learning
 
-* [ Microsoft Q# Coding Contest - Summer 2020 - Warmup](https://github.com/Djohnnie/Microsoft-Quantum-Coding-Contest-Summer-2020-Warmup)
-* [ Microsoft Q# Coding Contest - Summer 2020](https://github.com/Djohnnie/Microsoft-Quantum-Coding-Contest-Summer-2020)
+* [Microsoft Q# Coding Contest - Summer 2020 - Warmup](https://github.com/Djohnnie/Microsoft-Quantum-Coding-Contest-Summer-2020-Warmup)
+* [Microsoft Q# Coding Contest - Summer 2020](https://github.com/Djohnnie/Microsoft-Quantum-Coding-Contest-Summer-2020)
 
 ## Presentations and Events
+
+### 2021
+
+* [January - NDC London - Microsoft Q# and Azure Quantum](https://github.com/Djohnnie/QSharp-and-AzureQuantum-NDCLondon-2021)
 
 ### 2020
 
