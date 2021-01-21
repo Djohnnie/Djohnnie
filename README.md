@@ -31,11 +31,11 @@ Johnny Hooyberghs is a consultant for Involved since 2014 focusing on .NET archi
 
 ## Personal Projects
 
-* [CSharpWars](https://github.com/Djohnnie/CSharpWars) An educational game to learn C# by scripting a virtual robot that fights in an arena.
-* [Graphfun](https://github.com/Djohnnie/Graphfun) A rebuild of my old high school project that draws mathematical functions on the screen.
-* [MijnSauna](https://github.com/Djohnnie/MijnSauna) A .NET 5 and Xamarin.Forms application that controls my home sauna.
-* [MijnThuis](https://github.com/Djohnnie/MijnThuis) A planned application that combines all my smart-home hardware into a single dashboard.
-* [MijnKeuken](https://github.com/Djohnnie/MijnKeuken) A planned application that can be used in the kitches for recipes and shopping lists.
+* [CSharpWars](https://github.com/Djohnnie/CSharpWars) - An educational game to learn C# by scripting a virtual robot that fights in an arena.
+* [Graphfun](https://github.com/Djohnnie/Graphfun) - A rebuild of my old high school project that draws mathematical functions on the screen.
+* [MijnSauna](https://github.com/Djohnnie/MijnSauna) - A .NET 5 and Xamarin.Forms application that controls my home sauna.
+* [MijnThuis](https://github.com/Djohnnie/MijnThuis) - A planned application that combines all my smart-home hardware into a single dashboard.
+* [MijnKeuken](https://github.com/Djohnnie/MijnKeuken) - A planned application that can be used in the kitches for recipes and shopping lists.
 
 ## Personal Learning
 
