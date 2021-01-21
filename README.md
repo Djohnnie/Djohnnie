@@ -2,7 +2,7 @@
 
 ![Microsoft MVP](https://github.com/Djohnnie/Djohnnie/blob/master/microsoft-mvp.png?raw=true)
 
-Johnny Hooyberghs is a consultant for Involved since 2014 focusing on .NET architecture and backend development and a Microsoft MVP since 2020. Prior to joining Involved, he has had experience developing software for Corilus since 2008. He has been passionate about .NET ever since it was released and his areas of expertise are C#, .NET (Core), WCF, WinForms, WPF, ASP.NET (Core), Entity Framework (Core), Azure and ALM using the Microsoft Stack. Every now and then he enjoys doing some web development using JavaScript. Since 2010, Johnny spends some of his free time teaching .NET and C# for the adult education institute CVO Antwerpen. When he's not working or teaching, he likes some casual gaming, scuba diving, learning to play the piano, traveling the world and visiting as many theme parks as possible.
+Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) since 2014 focusing on .NET architecture and backend development and a Microsoft MVP since 2020. Prior to joining [Involved](https://www.involved-it.be/), he has had experience developing software for Corilus since 2008. He has been passionate about .NET ever since it was released and his areas of expertise are C#, .NET (Core), WCF, WinForms, WPF, ASP.NET (Core), Entity Framework (Core), Azure and ALM using the Microsoft Stack. Every now and then he enjoys doing some web development using JavaScript. Since 2010, Johnny spends some of his free time teaching .NET and C# for the adult education institute CVO Antwerpen. When he's not working or teaching, he likes some casual gaming, scuba diving, learning to play the piano, traveling the world and visiting as many theme parks as possible.
 
 # What am I doing right now?
 
@@ -13,12 +13,14 @@ Johnny Hooyberghs is a consultant for Involved since 2014 focusing on .NET archi
 * Teaching .NET, C# and quantum computing
 * Preparing for my NDC London talk [Microsoft Q# and Azure Quantum](https://ndc-london.com/agenda/microsoft-q-and-azure-quantum-0w17/0duvbeues1j)
 * Staying home due to [COVID-19](https://www.info-coronavirus.be/en/)
+* Playing [Beat Saber](https://www.beatsaber.com/) by myself
+* Playing [Half Life: Alyx](https://www.half-life.com/nl/alyx/) by myself
 * Playing [Sea of Thieves](https://www.seaofthieves.com/) by myself
 * Playing [Hitman 2](https://hitman.com/global/) by myself
-* Playing [Divinity Original Sin II](https://divinity.game/) in co-op with my wife
-* Playing [For The King](https://ironoakgames.com/) in co-op with my wife
 * Playing [Minecraft Dungeons](https://www.minecraft.net/en-us/about-dungeons) in co-op with my wife
 * Playing [Rock Band 4](https://www.rockband4.com/) together with my wife
+* Playing [Stardew Valley](https://www.stardewvalley.net/) togeher with my wife
+* Playing [Tabletop Simulator](https://www.tabletopsimulator.com/) virtually with friends due to COVID-19
 
 # My Social Media
 
