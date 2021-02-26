@@ -11,7 +11,8 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * Learning about quantum computing and the [Microsoft Quantum Development Kit](https://www.microsoft.com/en-us/quantum/development-kit)
 * Having some fun with .NET 5, [Raspberry Pi](https://www.raspberrypi.org/), and home automation
 * Teaching .NET, C# and quantum computing
-* Preparing for my NDC London talk [Microsoft Q# and Azure Quantum](https://ndc-london.com/agenda/microsoft-q-and-azure-quantum-0w17/0duvbeues1j)
+* Preparing for my Netcoreconf talk [What is new in .NET 5 and the future of .NET](https://netcoreconf.com/)
+* Preparing for my TechTrain Mechelen talk [What is new in .NET 5 and the future of .NET](https://www.meetup.com/nl-NL/TechTrain-Mechelen/events/276247384/)
 * Staying home due to [COVID-19](https://www.info-coronavirus.be/en/)
 * Playing [Beat Saber](https://www.beatsaber.com/) by myself
 * Playing [Half Life: Alyx](https://www.half-life.com/nl/alyx/) by myself
@@ -48,6 +49,8 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ### 2021
 
+* [February - NetCoreConf 2021 - What is new in .NET 5 and the future of .NET](https://github.com/Djohnnie/DotNet5-NetCoreConf-2021)
+* [February - Allphi - What is new in .NET 5 and the future of .NET](https://github.com/Djohnnie/DotNet5-Allphi-2021)
 * [January - NDC London - Microsoft Q# and Azure Quantum](https://github.com/Djohnnie/QSharp-and-AzureQuantum-NDCLondon-2021)
 
 ### 2020
