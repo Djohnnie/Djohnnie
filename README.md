@@ -11,8 +11,8 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * Learning about quantum computing and the [Microsoft Quantum Development Kit](https://www.microsoft.com/en-us/quantum/development-kit)
 * Having some fun with .NET 5, [Raspberry Pi](https://www.raspberrypi.org/), and home automation
 * Teaching .NET, C# and quantum computing
-* Preparing for my Netcoreconf talk [What is new in .NET 5 and the future of .NET](https://netcoreconf.com/)
-* Preparing for my TechTrain Mechelen talk [Microsoft Q# and Azure Quantum](https://www.meetup.com/nl-NL/TechTrain-Mechelen/events/276247384/)
+* Preparing for my Re:Factor talk [Microsoft Q# and Azure Quantum](https://www.re-factor.be/)
+* Preparing for my FutureTech talk [Microsoft Q# and Azure Quantum](https://futuretech.nl/)
 * Staying home due to [COVID-19](https://www.info-coronavirus.be/en/)
 * Playing [Beat Saber](https://www.beatsaber.com/) by myself
 * Playing [Half Life: Alyx](https://www.half-life.com/nl/alyx/) by myself
@@ -49,6 +49,8 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ### 2021
 
+* [April - DotNext Piter 2021 - Building Cloud Native Applications with .NET 5](https://github.com/Djohnnie/BuildCloudNativeApplicationsWithDotNet5-DotNextPiter-2021)
+* [March - Re:Factor 2021 - Microsoft Q# and Azure Quantum](https://github.com/Djohnnie/QSharp-and-AzureQuantum-ReFactor-2021)
 * [March - Future Tech Digital 2021 - Microsoft Q# and Azure Quantum](https://github.com/Djohnnie/QSharp-and-AzureQuantum-FutureTech-2021)
 * [March - TechTrain Mechelen - Microsoft Q# and Azure Quantum](https://github.com/Djohnnie/QSharp-and-AzureQuantum-TechTrainMechelen-2021)
 * [February - NetCoreConf 2021 - What is new in .NET 5 and the future of .NET](https://github.com/Djohnnie/DotNet5-NetCoreConf-2021)
