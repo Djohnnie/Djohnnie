@@ -49,6 +49,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ### 2021
 
+* [May - DevSum 2021 - ???](https://github.com/Djohnnie/???-DevSum-2021)
 * [April - DotNext Piter 2021 - Building Cloud Native Applications with .NET 5](https://github.com/Djohnnie/BuildCloudNativeApplicationsWithDotNet5-DotNextPiter-2021)
 * [March - Re:Factor 2021 - Microsoft Q# and Azure Quantum](https://github.com/Djohnnie/QSharp-and-AzureQuantum-ReFactor-2021)
 * [March - Future Tech Digital 2021 - Microsoft Q# and Azure Quantum](https://github.com/Djohnnie/QSharp-and-AzureQuantum-FutureTech-2021)
