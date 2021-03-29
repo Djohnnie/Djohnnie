@@ -34,6 +34,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ## Personal Projects
 
+* [OBSPowerPointIntegration](https://github.com/Djohnnie/OBSPowerPointIntegration) - A small VSTO plugin for PowerPoint with support for automatic OBS scene switching
 * [CSharpWars](https://github.com/Djohnnie/CSharpWars) - An educational game to learn C# by scripting a virtual robot that fights in an arena.
 * [Graphfun](https://github.com/Djohnnie/Graphfun) - A rebuild of my old high school project that draws mathematical functions on the screen.
 * [MijnSauna](https://github.com/Djohnnie/MijnSauna) - A .NET 5 and Xamarin.Forms application that controls my home sauna.
