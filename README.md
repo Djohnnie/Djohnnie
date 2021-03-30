@@ -11,13 +11,13 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * Learning about quantum computing and the [Microsoft Quantum Development Kit](https://www.microsoft.com/en-us/quantum/development-kit)
 * Having some fun with .NET 5, [Raspberry Pi](https://www.raspberrypi.org/), and home automation
 * Teaching .NET, C# and quantum computing
+* Preparing for my DotNext Piter workshop [Building Cloud Native applications with .NET 5 and AKS](https://dotnext-piter.ru/en/2021/spb/talks/u6r893k053kaxm2issvvx/)
+* Preparing for my .NET to the Core talk [Microsoft Q# and Azure Quantum](https://www.meetup.com/NET-to-the-Core/events/277254457/)
 * Preparing for my Re:Factor talk [Microsoft Q# and Azure Quantum](https://www.re-factor.be/)
-* Preparing for my FutureTech talk [Microsoft Q# and Azure Quantum](https://futuretech.nl/)
 * Staying home due to [COVID-19](https://www.info-coronavirus.be/en/)
 * Playing [Beat Saber](https://www.beatsaber.com/) by myself
-* Playing [Half Life: Alyx](https://www.half-life.com/nl/alyx/) by myself
 * Playing [Sea of Thieves](https://www.seaofthieves.com/) by myself
-* Playing [Hitman 2](https://hitman.com/global/) by myself
+* Playing [Hitman 3](https://hitman.com/global/) by myself
 * Playing [Minecraft Dungeons](https://www.minecraft.net/en-us/about-dungeons) in co-op with my wife
 * Playing [Rock Band 4](https://www.rockband4.com/) together with my wife
 * Playing [Stardew Valley](https://www.stardewvalley.net/) togeher with my wife
@@ -52,6 +52,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 * [June - Re:Factor 2021 - Microsoft Q# and Azure Quantum](https://github.com/Djohnnie/QSharp-and-AzureQuantum-ReFactor-2021)
 * [May - DevSum 2021 - ???](https://github.com/Djohnnie/???-DevSum-2021)
+* [May - .NET to the Core - Microsoft Q# and Azure Quantum](https://github.com/Djohnnie/QSharp-and-AzureQuantum-DotNetToTheCore-2021)
 * [April - DotNext Piter 2021 - Building Cloud Native Applications with .NET 5](https://github.com/Djohnnie/BuildCloudNativeApplicationsWithDotNet5-DotNextPiter-2021)
 * [March - Future Tech Digital 2021 - Microsoft Q# and Azure Quantum](https://github.com/Djohnnie/QSharp-and-AzureQuantum-FutureTech-2021)
 * [March - TechTrain Mechelen - Microsoft Q# and Azure Quantum](https://github.com/Djohnnie/QSharp-and-AzureQuantum-TechTrainMechelen-2021)
