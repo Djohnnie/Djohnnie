@@ -46,6 +46,10 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * [Microsoft Q# Coding Contest - Summer 2020 - Warmup](https://github.com/Djohnnie/Microsoft-Quantum-Coding-Contest-Summer-2020-Warmup)
 * [Microsoft Q# Coding Contest - Summer 2020](https://github.com/Djohnnie/Microsoft-Quantum-Coding-Contest-Summer-2020)
 
+## Books
+
+* [Introducing Microsoft Quantum Computing for Developers](https://github.com/Djohnnie/Introducing-Microsoft-Quantum-Computing-For-Developers)
+
 ## Presentations and Events
 
 ### 2021
