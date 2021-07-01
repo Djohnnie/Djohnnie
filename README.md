@@ -46,6 +46,10 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * [Microsoft Q# Coding Contest - Summer 2020 - Warmup](https://github.com/Djohnnie/Microsoft-Quantum-Coding-Contest-Summer-2020-Warmup)
 * [Microsoft Q# Coding Contest - Summer 2020](https://github.com/Djohnnie/Microsoft-Quantum-Coding-Contest-Summer-2020)
 
+## Code Challenges
+
+* [Involved Code Retreat 2021 - HexaMazeRetreat](https://github.com/Djohnnie/Involved-CodeRetreat-2021-HexaMazeRetreat)
+
 ## Books
 
 * [Introducing Microsoft Quantum Computing for Developers](https://github.com/Djohnnie/Introducing-Microsoft-Quantum-Computing-For-Developers)
@@ -54,6 +58,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ### 2021
 
+* [August - Code PaLOUsa 2021 - What is new in .NET 6 and the future of .NET)(https://github.com/Djohnnie/DotNet6-CodePaLOUsa-2021)
 * [June - DevDays Europe 2021 - What is new in .NET 5 and the future of .NET](https://github.com/Djohnnie/DotNet5-DevDaysEurope-2021)
 * [June - Re:Factor 2021 - Microsoft Q# and Azure Quantum](https://github.com/Djohnnie/QSharp-and-AzureQuantum-ReFactor-2021)
 * [May - DevSum 2021 - Microsoft Q# and Azure Quantum](https://github.com/Djohnnie/QSharp-and-AzureQuantum-DevSum-2021)
