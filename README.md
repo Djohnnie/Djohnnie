@@ -59,6 +59,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 ### 2021
 
 * [August - Code PaLOUsa 2021 - What is new in .NET 6 and the future of .NET](https://github.com/Djohnnie/DotNet6-CodePaLOUsa-2021)
+* [August - Code PaLOUsa 2021 - Microsoft Q# and Azure Quantum](https://github.com/Djohnnie/QSharp-and-AzureQuantum-CodePaLOUsa-2021)
 * [June - DevDays Europe 2021 - What is new in .NET 5 and the future of .NET](https://github.com/Djohnnie/DotNet5-DevDaysEurope-2021)
 * [June - Re:Factor 2021 - Microsoft Q# and Azure Quantum](https://github.com/Djohnnie/QSharp-and-AzureQuantum-ReFactor-2021)
 * [May - DevSum 2021 - Microsoft Q# and Azure Quantum](https://github.com/Djohnnie/QSharp-and-AzureQuantum-DevSum-2021)
