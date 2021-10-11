@@ -18,10 +18,8 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * Playing [Beat Saber](https://www.beatsaber.com/) by myself
 * Playing [Sea of Thieves](https://www.seaofthieves.com/) by myself
 * Playing [Hitman 3](https://hitman.com/global/) by myself
-* Playing [Minecraft Dungeons](https://www.minecraft.net/en-us/about-dungeons) in co-op with my wife
 * Playing [Rock Band 4](https://www.rockband4.com/) together with my wife
-* Playing [Stardew Valley](https://www.stardewvalley.net/) togeher with my wife
-* Playing [Tabletop Simulator](https://www.tabletopsimulator.com/) virtually with friends due to COVID-19
+* Playing [Far Cry 6](https://www.ubisoft.com/en-gb/game/far-cry/far-cry-6) together with my wife
 
 # My Social Media
 
@@ -58,6 +56,8 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ### 2021
 
+* [October - .NET Developer Days - What is new in .NET 6 and the future of .NET](https://github.com/Djohnnie/DotNet6-DotNetDeveloperDays-2021)
+* [October - .NET Developer Days - Microsoft Q# and Azure Quantum](https://github.com/Djohnnie/QSharp-and-AzureQuantum-DotNetDeveloperDays-2021)
 * [August - Code PaLOUsa 2021 - What is new in .NET 6 and the future of .NET](https://github.com/Djohnnie/DotNet6-CodePaLOUsa-2021)
 * [August - Code PaLOUsa 2021 - Microsoft Q# and Azure Quantum](https://github.com/Djohnnie/QSharp-and-AzureQuantum-CodePaLOUsa-2021)
 * [June - DevDays Europe 2021 - What is new in .NET 5 and the future of .NET](https://github.com/Djohnnie/DotNet5-DevDaysEurope-2021)
