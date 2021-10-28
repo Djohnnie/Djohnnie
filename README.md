@@ -56,6 +56,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ### 2021
 
+* [October - Azure Community Conference - Microsoft Q# and Azure Quantum](https://github.com/Djohnnie/QSharp-and-AzureQuantum-AzConfDev-2021)
 * [October - VISUG - What is new in .NET 6 and the future of .NET](https://github.com/Djohnnie/DotNet6-VISUG-2021)
 * [October - .NET Developer Days - What is new in .NET 6 and the future of .NET](https://github.com/Djohnnie/DotNet6-DotNetDeveloperDays-2021)
 * [October - .NET Developer Days - Microsoft Q# and Azure Quantum](https://github.com/Djohnnie/QSharp-and-AzureQuantum-DotNetDeveloperDays-2021)
