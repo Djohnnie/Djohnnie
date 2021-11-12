@@ -54,10 +54,17 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ## Presentations and Events
 
+### 2022
+
+* [April - DevDays Europe]
+* [January - NDC London]
+* [January - CodeMash]
+
 ### 2021
 
 * [December - .NET Developer Conference 2021 - What is new in .NET 6 and the future of .NET](...)
-* [December - Update Conference Prague 2021 - What is new in .NET 6 and the future of .NET](https://github.com/Djohnnie/DotNet6-UpdateConference-2021)
+* [November - DevDay - What is new in .NET 6 and the future of .NET](...)
+* [November - Update Conference Prague 2021 - What is new in .NET 6 and the future of .NET](https://github.com/Djohnnie/DotNet6-UpdateConference-2021)
 * [October - Azure Community Conference - Microsoft Q# and Azure Quantum](https://github.com/Djohnnie/QSharp-and-AzureQuantum-AzConfDev-2021)
 * [October - VISUG - What is new in .NET 6 and the future of .NET](https://github.com/Djohnnie/DotNet6-VISUG-2021)
 * [October - .NET Developer Days - What is new in .NET 6 and the future of .NET](https://github.com/Djohnnie/DotNet6-DotNetDeveloperDays-2021)
