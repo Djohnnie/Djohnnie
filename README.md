@@ -56,9 +56,9 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ### 2022
 
-* [April - DevDays Europe]
-* [January - NDC London]
-* [January - CodeMash]
+* [April - DevDays Europe](...)
+* [January - NDC London](...)
+* [January - CodeMash](...)
 
 ### 2021
 
