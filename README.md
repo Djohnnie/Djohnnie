@@ -50,7 +50,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ## Books
 
-* [Introducing Microsoft Quantum Computing for Developers](https://link.springer.com/book/10.1007/978-1-4842-7246-6) [GitHub](https://github.com/Djohnnie/Introducing-Microsoft-Quantum-Computing-For-Developers)
+* [Introducing Microsoft Quantum Computing for Developers](https://link.springer.com/book/10.1007/978-1-4842-7246-6) ([GitHub](https://github.com/Djohnnie/Introducing-Microsoft-Quantum-Computing-For-Developers))
 
 ## Presentations and Events
 
