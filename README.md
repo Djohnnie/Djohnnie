@@ -50,7 +50,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ## Books
 
-* [Introducing Microsoft Quantum Computing for Developers](https://github.com/Djohnnie/Introducing-Microsoft-Quantum-Computing-For-Developers)
+* [Introducing Microsoft Quantum Computing for Developers](https://link.springer.com/book/10.1007/978-1-4842-7246-6) [GitHub](https://github.com/Djohnnie/Introducing-Microsoft-Quantum-Computing-For-Developers)
 
 ## Presentations and Events
 
@@ -58,12 +58,11 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 * [April - DevDays Europe](...)
 * [January - NDC London](...)
-* [January - CodeMash](...)
 
 ### 2021
 
-* [December - .NET Developer Conference 2021 - What is new in .NET 6 and the future of .NET](...)
-* [November - DevDay - What is new in .NET 6 and the future of .NET](...)
+* [December - .NET Developer Conference 2021 - What is new in .NET 6 and the future of .NET](https://github.com/Djohnnie/DotNet6-DotNetDeveloperConference-2021)
+* [November - DevDay - What is new in .NET 6 and the future of .NET](https://github.com/Djohnnie/DotNet6-DevDay-2021)
 * [November - Update Conference Prague 2021 - What is new in .NET 6 and the future of .NET](https://github.com/Djohnnie/DotNet6-UpdateConference-2021)
 * [October - Azure Community Conference - Microsoft Q# and Azure Quantum](https://github.com/Djohnnie/QSharp-and-AzureQuantum-AzConfDev-2021)
 * [October - VISUG - What is new in .NET 6 and the future of .NET](https://github.com/Djohnnie/DotNet6-VISUG-2021)
