@@ -17,9 +17,8 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * Staying home due to [COVID-19](https://www.info-coronavirus.be/en/)
 * Playing [Beat Saber](https://www.beatsaber.com/) by myself
 * Playing [Sea of Thieves](https://www.seaofthieves.com/) by myself
-* Playing [Hitman 3](https://hitman.com/global/) by myself
 * Playing [Rock Band 4](https://www.rockband4.com/) together with my wife
-* Playing [Far Cry 6](https://www.ubisoft.com/en-gb/game/far-cry/far-cry-6) together with my wife
+* Playing [Gloomhaven](https://store.steampowered.com/app/780290/Gloomhaven/) together with my wife
 
 # My Social Media
 
@@ -38,6 +37,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * [MijnSauna](https://github.com/Djohnnie/MijnSauna) - A .NET 5 and Xamarin.Forms application that controls my home sauna.
 * [MijnThuis](https://github.com/Djohnnie/MijnThuis) - A planned application that combines all my smart-home hardware into a single dashboard.
 * [MijnKeuken](https://github.com/Djohnnie/MijnKeuken) - A planned application that can be used in the kitches for recipes and shopping lists.
+* [PhotoCarousel](https://github.com/Djohnnie/Photo-Carousel) - An application platform to show my personal pictures on a Samsung The Frame.
 
 ## Personal Learning
 
@@ -56,8 +56,9 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ### 2022
 
+* [May - NDC London](...)
 * [April - DevDays Europe](...)
-* [January - NDC London](...)
+* [February - DDOG.nl - Quantum software development? Azure Quantum & Microsoft Q#!](...)
 
 ### 2021
 
