@@ -58,6 +58,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 * [May - NDC London](...)
 * [April - DevDays Europe](...)
+* [March - Cloud With Chris - Azure Quantum & Microsoft Q#](https://github.com/Djohnnie/QSharp-and-AzureQuantum-CloudWithChris-2022)
 * [February - DDOG.nl - Quantum software development? Azure Quantum & Microsoft Q#!](https://github.com/Djohnnie/QSharp-and-AzureQuantum-DDOG-2022)
 
 ### 2021
