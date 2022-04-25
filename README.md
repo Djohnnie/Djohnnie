@@ -7,14 +7,11 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 # What am I doing right now?
 
 * Working as a software development consultant for [Involved](https://www.involved-it.be)
+* Boardmember for the Belgian Visual Studio User Group [VISUG](https://www.visug.be/)
 * Staying up-to-date with the latest [.NET](https://dotnet.microsoft.com/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) and [Microsoft Azure](https://azure.microsoft.com/en-us/) stuff
 * Learning about quantum computing and the [Microsoft Quantum Development Kit](https://www.microsoft.com/en-us/quantum/development-kit)
-* Having some fun with .NET 5, [Raspberry Pi](https://www.raspberrypi.org/), and home automation
+* Having some fun with .NET 7, [Raspberry Pi](https://www.raspberrypi.org/), and home automation
 * Teaching .NET, C# and quantum computing
-* Preparing for my .NET to the Core talk [Microsoft Q# and Azure Quantum](https://www.meetup.com/NET-to-the-Core/events/277254457/)
-* Preparing for my DevSum talk [Microsoft Q# and Azure Quantum](https://www.devsum.se/)
-* Preparing for my Re:Factor talk [Microsoft Q# and Azure Quantum](https://www.re-factor.be/)
-* Staying home due to [COVID-19](https://www.info-coronavirus.be/en/)
 * Playing [Beat Saber](https://www.beatsaber.com/) by myself
 * Playing [Sea of Thieves](https://www.seaofthieves.com/) by myself
 * Playing [Rock Band 4](https://www.rockband4.com/) together with my wife
