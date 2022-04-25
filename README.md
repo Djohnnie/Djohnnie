@@ -19,7 +19,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * Playing [Sea of Thieves](https://www.seaofthieves.com/) by myself
 * Playing [Rock Band 4](https://www.rockband4.com/) together with my wife
 * Playing [Gloomhaven](https://store.steampowered.com/app/780290/Gloomhaven/) together with my wife and friends
-* Playing [Dead Space](https://www.seaofthieves.com/) on my new Steam Deck
+* Playing [Dead Space](https://store.steampowered.com/app/17470/Dead_Space/) on my new Steam Deck
 
 # My Social Media
 
