@@ -18,7 +18,8 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * Playing [Beat Saber](https://www.beatsaber.com/) by myself
 * Playing [Sea of Thieves](https://www.seaofthieves.com/) by myself
 * Playing [Rock Band 4](https://www.rockband4.com/) together with my wife
-* Playing [Gloomhaven](https://store.steampowered.com/app/780290/Gloomhaven/) together with my wife
+* Playing [Gloomhaven](https://store.steampowered.com/app/780290/Gloomhaven/) together with my wife and friends
+* Playing [Dead Space](https://www.seaofthieves.com/) on my new Steam Deck
 
 # My Social Media
 
@@ -137,6 +138,16 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 ### 2015
 
 * [April - VISUG - The Microsoft Compiler Platform, Roslyn](https://github.com/Djohnnie/Roslyn4Visug)
+
+## YouTube videos
+
+[Johnny does .NET](https://www.youtube.com/channel/UCPvA9d7Ji-k8xbAk9KNemew)
+
+### Season 01
+
+* Episode 01 - .NET introduction [(EN)](https://youtu.be/ZpR88ZdbGXE) / [(NL)](https://youtu.be/jtL8ljZi4AU) ([Repository](...))
+* Episode 02 - .NET history and future [(EN)](https://youtu.be/1oCxguHCT5w) / [(NL)](https://youtu.be/O4Qcg5Uon4g) ([Repository](...))
+* Episode 03 - Differences between .NET Framework and .NET (Core) [(EN)](https://youtu.be/_v-BrR-q81Y) / [(NL)](https://youtu.be/nn1OjWChGps) ([Repository](...))
 
 <!--
 **Djohnnie/Djohnnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
