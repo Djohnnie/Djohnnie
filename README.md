@@ -143,7 +143,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 [Johnny does .NET](https://www.youtube.com/channel/UCPvA9d7Ji-k8xbAk9KNemew)
 
-### Season 01
+### Season 01 - Q2 2022
 
 * Episode 01 - .NET introduction [(EN)](https://youtu.be/ZpR88ZdbGXE) / [(NL)](https://youtu.be/jtL8ljZi4AU) ([Repository](...))
 * Episode 02 - .NET history and future [(EN)](https://youtu.be/1oCxguHCT5w) / [(NL)](https://youtu.be/O4Qcg5Uon4g) ([Repository](...))
