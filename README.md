@@ -146,6 +146,16 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * Episode 01 - .NET introduction [(EN)](https://youtu.be/ZpR88ZdbGXE) / [(NL)](https://youtu.be/jtL8ljZi4AU) ([Repository](...))
 * Episode 02 - .NET history and future [(EN)](https://youtu.be/1oCxguHCT5w) / [(NL)](https://youtu.be/O4Qcg5Uon4g) ([Repository](...))
 * Episode 03 - Differences between .NET Framework and .NET (Core) [(EN)](https://youtu.be/_v-BrR-q81Y) / [(NL)](https://youtu.be/nn1OjWChGps) ([Repository](...))
+* Episode 04 - .NET CLI, Visual Studio & Visual Studio Code [(EN)](https://youtu.be/FxCxlwlhOyo) / [(NL)](https://youtu.be/S3F6SuMEYMM) ([Repository](...))
+* Episode 05 - .NET Templates and Workloads [(EN)](https://youtu.be/wclL97bNMBY) / [(NL)](https://youtu.be/cIlwMHgol7M) ([Repository](...))
+* Episode 06 - .NET Console Applications [(EN)](https://youtu.be/6gyGgFK4Apw) / [(NL)](https://youtu.be/2D05JQYvF6o) ([Repository](...))
+* Episode 07 - .NET Windows Desktop Apps [(EN)](https://youtu.be/ZmixX9cbv4g) / [(NL)](https://youtu.be/YNThj4DTFnM) ([Repository](...))
+* Episode 08 - (Scheduled)
+* Episode 09 - (Scheduled)
+* Episode 10 - (Scheduled)
+* Episode 11 - (Scheduled)
+* Episode 12 - (Scheduled)
+* Episode 13 - (Scheduled)
 
 <!--
 **Djohnnie/Djohnnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
