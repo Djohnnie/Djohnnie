@@ -57,7 +57,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * [September - NDC Oslo - Introduction to project Orleans for your distributed applications](...)
 * [August - KCDC 2022 - Azure Quantum & Microsoft Q#](...)
 * [June - Azure Lowlands 2022 - Azure Quantum & Microsoft Q#](...)
-* [June - FutureTech 2022 - What is new in .NET 7 and C# 11](...)
+* [June - FutureTech 2022 - What is new in .NET 7 and C# 11](https://github.com/Djohnnie/DotNet7-FutureTech-2022)
 * [May - NDC London - Software developers are roller coaster addicts?](https://ndclondon.com/)
 * [May - NDC London - Controlling My Home Sauna Using .NET 6 and MAUI](https://github.com/Djohnnie/ControllingMyHomeSaunaUsingDotNet6AndMaui-NDCLondon-2022)
 * [May - DevDays Europe 2022 - Hands-On building Cloud Native applications with .NET 6 and Azure](https://github.com/Djohnnie/CloudNativeApplicationsHandsOn-DevDaysEurope-2022)
