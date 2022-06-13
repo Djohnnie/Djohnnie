@@ -55,6 +55,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 ### 2022
 
 * [September - NDC Oslo - Introduction to project Orleans for your distributed applications](...)
+* [September - Swetugg - June - FutureTech 2022 - What is new in .NET 7 and C# 11](...)
 * [August - KCDC 2022 - Azure Quantum & Microsoft Q#](...)
 * [June - Azure Lowlands 2022 - Azure Quantum & Microsoft Q#](...)
 * [June - FutureTech 2022 - What is new in .NET 7 and C# 11](https://github.com/Djohnnie/DotNet7-FutureTech-2022)
