@@ -54,6 +54,8 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ### 2022
 
+* [October - .NET Developer Day - Hands-On building Cloud Native applications with .NET 6 and Azure](...)
+* [October - Re:Factor - Introduction to project Orleans for your distributed applications](...)
 * [September - NDC Oslo - Introduction to project Orleans for your distributed applications](...)
 * [September - Swetugg - June - FutureTech 2022 - What is new in .NET 7 and C# 11](...)
 * [August - KCDC 2022 - Azure Quantum & Microsoft Q#](...)
