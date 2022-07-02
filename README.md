@@ -146,21 +146,37 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 [Johnny does .NET](https://www.youtube.com/channel/UCPvA9d7Ji-k8xbAk9KNemew)
 
-### Season 01 - Q2 2022
+### Season 01 - Focus on .NET [(EN)](https://www.youtube.com/playlist?list=PLZ4lzHXlYC6yP7IXFBmoet0uGhvir7gTi) / [(NL)](https://www.youtube.com/playlist?list=PLZ4lzHXlYC6wwBBxbQj3wZAntTbm4h457)
 
-* Episode 01 - .NET introduction [(EN)](https://youtu.be/ZpR88ZdbGXE) / [(NL)](https://youtu.be/jtL8ljZi4AU) ([Repository](...))
-* Episode 02 - .NET history and future [(EN)](https://youtu.be/1oCxguHCT5w) / [(NL)](https://youtu.be/O4Qcg5Uon4g) ([Repository](...))
-* Episode 03 - Differences between .NET Framework and .NET (Core) [(EN)](https://youtu.be/_v-BrR-q81Y) / [(NL)](https://youtu.be/nn1OjWChGps) ([Repository](...))
-* Episode 04 - .NET CLI, Visual Studio & Visual Studio Code [(EN)](https://youtu.be/FxCxlwlhOyo) / [(NL)](https://youtu.be/S3F6SuMEYMM) ([Repository](...))
-* Episode 05 - .NET Templates and Workloads [(EN)](https://youtu.be/wclL97bNMBY) / [(NL)](https://youtu.be/cIlwMHgol7M) ([Repository](...))
-* Episode 06 - .NET Console Applications [(EN)](https://youtu.be/6gyGgFK4Apw) / [(NL)](https://youtu.be/2D05JQYvF6o) ([Repository](...))
-* Episode 07 - .NET Windows Desktop Apps [(EN)](https://youtu.be/ZmixX9cbv4g) / [(NL)](https://youtu.be/YNThj4DTFnM) ([Repository](...))
-* Episode 08 - .NET Web applications [(EN)](https://youtu.be/JsHaBagdFRY) / [(NL)](https://youtu.be/59kocYk3ymk) ([Repository](...))
-* Episode 09 - .NET Blazor applications [(EN)](https://youtu.be/kj-L5a1prLE) / [(NL)](https://youtu.be/jQWhBz_JX_I) ([Repository](...))
-* Episode 10 - .NET Web Service applications [(EN)](https://youtu.be/in8T4jp7g78) / [(NL)](https://youtu.be/Cp2QfJu4Q9U) ([Repository](...))
-* Episode 11 - (Scheduled)
-* Episode 12 - (Scheduled)
-* Episode 13 - (Scheduled)
+* Episode 01 - .NET introduction [(EN)](https://youtu.be/ZpR88ZdbGXE) / [(NL)](https://youtu.be/jtL8ljZi4AU)
+* Episode 02 - .NET history and future [(EN)](https://youtu.be/1oCxguHCT5w) / [(NL)](https://youtu.be/O4Qcg5Uon4g)
+* Episode 03 - Differences between .NET Framework and .NET (Core) [(EN)](https://youtu.be/_v-BrR-q81Y) / [(NL)](https://youtu.be/nn1OjWChGps)
+* Episode 04 - .NET CLI, Visual Studio & Visual Studio Code [(EN)](https://youtu.be/FxCxlwlhOyo) / [(NL)](https://youtu.be/S3F6SuMEYMM)
+* Episode 05 - .NET Templates and Workloads [(EN)](https://youtu.be/wclL97bNMBY) / [(NL)](https://youtu.be/cIlwMHgol7M)
+* Episode 06 - .NET Console Applications [(EN)](https://youtu.be/6gyGgFK4Apw) / [(NL)](https://youtu.be/2D05JQYvF6o)
+* Episode 07 - .NET Windows Desktop Apps [(EN)](https://youtu.be/ZmixX9cbv4g) / [(NL)](https://youtu.be/YNThj4DTFnM)
+* Episode 08 - .NET Web applications [(EN)](https://youtu.be/JsHaBagdFRY) / [(NL)](https://youtu.be/59kocYk3ymk)
+* Episode 09 - .NET Blazor applications [(EN)](https://youtu.be/kj-L5a1prLE) / [(NL)](https://youtu.be/jQWhBz_JX_I)
+* Episode 10 - .NET Web Service applications [(EN)](https://youtu.be/in8T4jp7g78) / [(NL)](https://youtu.be/Cp2QfJu4Q9U)
+* Episode 11 - .NET Worker Service applications [(EN)](https://youtu.be/ebOsNY6J-Qo) / [(NL)](https://youtu.be/0MZ7dwjB8uM)
+* Episode 12 - .NET Mobile applications using MAUI [(EN)](https://youtu.be/qzZdzz0jk6s) / [(NL)](https://youtu.be/xndh-IJyIEg)
+* Episode 13 - Which fun.NET applications have I built in the past? [(EN)](https://youtu.be/_pKWsw0ud4Y) / [(NL)](https://youtu.be/xY3onRmRu_8)
+
+### Season 02 - Focus on C# [(EN)](https://www.youtube.com/playlist?list=PLZ4lzHXlYC6zWUvjTNkJoX5ol6BJAf_1K) / [(NL)](https://www.youtube.com/playlist?list=PLZ4lzHXlYC6yDfVrrClhX8lBDIMrA7oMK)
+
+* Episode 01 - 
+* Episode 02 - 
+* Episode 03 - 
+* Episode 04 - 
+* Episode 05 - 
+* Episode 06 - 
+* Episode 07 - 
+* Episode 08 - 
+* Episode 09 - 
+* Episode 10 - 
+* Episode 11 - 
+* Episode 12 - 
+* Episode 13 - 
 
 <!--
 **Djohnnie/Djohnnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
