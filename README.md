@@ -54,6 +54,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ### 2022
 
+* [November - CloudBrew 2022 - Creating a quantum algorithm using Microsoft Q#](...)
 * [October - .NET Developer Day - Hands-On building Cloud Native applications with .NET 6 and Azure](...)
 * [October - Re:Factor - Introduction to project Orleans for your distributed applications](...)
 * [September - NDC Oslo - Introduction to project Orleans for your distributed applications](...)
