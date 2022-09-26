@@ -56,7 +56,12 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 ### 2022
 
 * [November - CloudBrew 2022 - Creating a quantum algorithm using Microsoft Q#](...)
+* [October - VisugXL - Introduction to project Orleans for your distributed applications](...)
+* [October - .NET Developer Day - Introduction to project Orleans for your distributed applications](...)
+* [October - .NET Developer Day - Creating a quantum algorithm using Microsoft Q#](...)
+* [October - What is new in .NET 7 and C# 11](...)
 * [October - .NET Developer Day - Hands-On building Cloud Native applications with .NET 6 and Azure](...)
+* [October - DGTalk - Quantum Computing](...)
 * [October - Re:Factor - Introduction to project Orleans for your distributed applications](...)
 * [September - NDC Oslo - Introduction to project Orleans for your distributed applications](https://github.com/Djohnnie/IntroductionToOrleans-NDCOslo-2022)
 * [September - Swetugg - What is new in .NET 7 and C# 11](https://github.com/Djohnnie/DotNet7-Swetugg-2022)
