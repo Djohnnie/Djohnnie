@@ -55,6 +55,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ### 2022
 
+* [December - Techorama Café - Introduction to Microsoft Orleans for your cloud native applications](...)
 * [November - VISUG - What is new in .NET 7 and C# 11](https://github.com/Djohnnie/DotNet7-VISUG-2022)
 * [November - CloudBrew 2022 - Creating a quantum algorithm using Microsoft Q#](https://github.com/Djohnnie/CreatingQuantumAlgorithmUsingQSharp-CloudBrew-2022)
 * [October - VisugXL - Introduction to project Orleans for your distributed applications](https://github.com/Djohnnie/IntroductionToOrleans-VisugXL-2022)
