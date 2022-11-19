@@ -53,9 +53,13 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ## Presentations and Events
 
+### 2023
+
+* [February - Swetugg Stockholm - What is new in .NET 7 and C# 11](...)
+
 ### 2022
 
-* [December - Techorama Café - Introduction to Microsoft Orleans for your cloud native applications](...)
+* [December - Techorama Café - Introduction to Microsoft Orleans for your cloud native applications](https://github.com/Djohnnie/IntroductionToOrleans-TechoramaCafe-2022)
 * [November - VISUG - What is new in .NET 7 and C# 11](https://github.com/Djohnnie/DotNet7-VISUG-2022)
 * [November - CloudBrew 2022 - Creating a quantum algorithm using Microsoft Q#](https://github.com/Djohnnie/CreatingQuantumAlgorithmUsingQSharp-CloudBrew-2022)
 * [October - VisugXL - Introduction to project Orleans for your distributed applications](https://github.com/Djohnnie/IntroductionToOrleans-VisugXL-2022)
@@ -66,7 +70,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * [October - DGTalk - Quantum Computing](https://github.com/Djohnnie/QuantumComputing-HyperionDGTalk-2022)
 * [October - Re:Factor - Introduction to project Orleans for your distributed applications](https://github.com/Djohnnie/IntroductionToOrleans-ReFactor-2022)
 * [September - NDC Oslo - Introduction to project Orleans for your distributed applications](https://github.com/Djohnnie/IntroductionToOrleans-NDCOslo-2022)
-* [September - Swetugg - What is new in .NET 7 and C# 11](https://github.com/Djohnnie/DotNet7-Swetugg-2022)
+* [September - Swetugg Göteborg - What is new in .NET 7 and C# 11](https://github.com/Djohnnie/DotNet7-Swetugg-2022)
 * [August - KCDC 2022 - Azure Quantum & Microsoft Q#](https://github.com/Djohnnie/AzureQuantum-and-QSharp-KCDC-2022)
 * [June - Azure Lowlands 2022 - Azure Quantum & Microsoft Q#](https://github.com/Djohnnie/AzureQuantum-and-QSharp-Azure-Lowlands-2022)
 * [June - FutureTech 2022 - What is new in .NET 7 and C# 11](https://github.com/Djohnnie/DotNet7-FutureTech-2022)
