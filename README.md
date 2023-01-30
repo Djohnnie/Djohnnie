@@ -12,11 +12,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * Learning about quantum computing and the [Microsoft Quantum Development Kit](https://www.microsoft.com/en-us/quantum/development-kit)
 * Having some fun with .NET 7, [Raspberry Pi](https://www.raspberrypi.org/), and home automation
 * Teaching .NET, C# and quantum computing
-* Playing [Beat Saber](https://www.beatsaber.com/) by myself
-* Playing [Sea of Thieves](https://www.seaofthieves.com/) by myself
-* Playing [Rock Band 4](https://www.rockband4.com/) together with my wife
-* Playing [Gloomhaven](https://store.steampowered.com/app/780290/Gloomhaven/) together with my wife and friends
-* Playing [Dead Space](https://store.steampowered.com/app/17470/Dead_Space/) on my new Steam Deck
+* Playing [Tiny Tina's Wonderlands](https://playwonderlands.2k.com/) together with my wife
 
 # My Social Media
 
@@ -55,7 +51,12 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ### 2023
 
-* [February - Swetugg Stockholm - What is new in .NET 7 and C# 11](...)
+* [May - DevSum 2023 - Hands-On building Cloud Native .NET applications using Microsoft Orleans and AKS](...)
+* [March - FutureTech 2023 - Creating a quantum algorithm using Microsoft Q#](...)
+* [March - .NET Live - Building and hosting an educational game using .NET, C#, Unity, Roslyn, Orleans and Azure Container Apps](...)
+* [March - KdG Multimedia & Creative Technologies - Technologies of the future - Quantum Computing](...)
+* [February - Swetugg Stockholm 2023 - What is new in .NET 7 and C# 11](https://github.com/Djohnnie/DotNet7-Swetugg-Stockholm-2023)
+* [January - UCLL Tech Inspiration Day - How to write cloud-native .NET applications using Microsoft Orleans](https://github.com/Djohnnie/CloudNativeOrleans-UCLLTechInspirationDay-2023)
 
 ### 2022
 
@@ -191,18 +192,3 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * Episode 11 - 
 * Episode 12 - 
 * Episode 13 - 
-
-<!--
-**Djohnnie/Djohnnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
