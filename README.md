@@ -142,7 +142,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * [October - .NET Developer Days - Quantum Computing](https://github.com/Djohnnie/QuantumComputing-DotNetDeveloperDays-2019)
 * [September - ProgNET London - Building an Educational Game with .NET Core](https://github.com/Djohnnie/CSharpWars-ProgNET-London-2019)
 * [March - Momentum DevCon](https://github.com/Djohnnie/presentations-2019)
-* [February - VISUG - Quantum COmputing Deep Dive](https://github.com/Djohnnie/QuantumComputingQSharpIntroduction2018)
+* [February - VISUG - Quantum Computing Deep Dive](https://github.com/Djohnnie/QuantumComputingQSharpIntroduction2018)
 
 ### 2018
 
