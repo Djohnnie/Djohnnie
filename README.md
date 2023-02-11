@@ -41,7 +41,9 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ## Code Challenges
 
+* [Involved Code Retreat 2022 - RaceRetreat](https://github.com/Djohnnie/Involved-CodeRetreat-2022-RaceRetreat)
 * [Involved Code Retreat 2021 - HexaMazeRetreat](https://github.com/Djohnnie/Involved-CodeRetreat-2021-HexaMazeRetreat)
+* [Involved Code Retreat 2015 - MazeRetreat](https://github.com/Djohnnie/Involved-CodeRetreat-2015-MazeRetreat)
 
 ## Books
 
@@ -52,6 +54,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 ### 2023
 
 * [May - DevSum 2023 - Hands-On building Cloud Native .NET applications using Microsoft Orleans and AKS](...)
+* [March - DevDay 2023 - Azure Quantum & Microsoft Q#](...)
 * [March - FutureTech 2023 - Creating a quantum algorithm using Microsoft Q#](...)
 * [March - .NET Live - Building and hosting an educational game using .NET, C#, Unity, Roslyn, Orleans and Azure Container Apps](...)
 * [March - KdG Multimedia & Creative Technologies - Technologies of the future - Quantum Computing](...)
