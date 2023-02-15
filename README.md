@@ -36,6 +36,8 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ## Personal Learning
 
+* [CloudSnake](https://github.com/Djohnnie/CloudSnake)
+* [OrleansSnake](https://github.com/Djohnnie/OrleansSnake)
 * [Microsoft Q# Coding Contest - Summer 2020 - Warmup](https://github.com/Djohnnie/Microsoft-Quantum-Coding-Contest-Summer-2020-Warmup)
 * [Microsoft Q# Coding Contest - Summer 2020](https://github.com/Djohnnie/Microsoft-Quantum-Coding-Contest-Summer-2020)
 
