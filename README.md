@@ -59,7 +59,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * [March - DevDay 2023 - Azure Quantum & Microsoft Q#](...)
 * [March - FutureTech 2023 - Creating a quantum algorithm using Microsoft Q#](...)
 * [March - .NET Live - Building and hosting an educational game using .NET, C#, Unity, Roslyn, Orleans and Azure Container Apps](...)
-* [March - KdG Multimedia & Creative Technologies - Technologies of the future - Quantum Computing](...)
+* [March - KdG Multimedia & Creative Technologies - Technologies of the future - Quantum Computing](https://github.com/Djohnnie/QuantumComputing-KdGTechnologiesOfTheFuture-2023)
 * [February - Swetugg Stockholm 2023 - What is new in .NET 7 and C# 11](https://github.com/Djohnnie/DotNet7-Swetugg-Stockholm-2023)
 * [January - UCLL Tech Inspiration Day - How to write cloud-native .NET applications using Microsoft Orleans](https://github.com/Djohnnie/CloudNativeOrleans-UCLLTechInspirationDay-2023)
 
