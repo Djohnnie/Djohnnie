@@ -55,10 +55,13 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ### 2023
 
+* [May - DevSum 2023 - Creating a quantum algorithm using Microsoft Q#](https://github.com/Djohnnie/CreatingQuantumAlgorithmUsingQSharp-DevSum-2023)
 * [May - DevSum 2023 - Hands-On building Cloud Native .NET applications using Microsoft Orleans and AKS](...)
-* [March - DevDay 2023 - Azure Quantum & Microsoft Q#](...)
-* [March - FutureTech 2023 - Creating a quantum algorithm using Microsoft Q#](...)
-* [March - .NET Live - Building and hosting an educational game using .NET, C#, Unity, Roslyn, Orleans and Azure Container Apps](...)
+* [May - IlionX DevDays 2023 - Deep dive into Microsoft Orleans 7)(...)
+* [April - UniPartners - ASP.NET Core WebApi Security](https://github.com/Djohnnie/ASPNetWebApiSecurity-UniPartners-2023)
+* [March - DevDay 2023 - Azure Quantum & Microsoft Q#](https://github.com/Djohnnie/AzureQuantum-and-QSharp-DevDay-2023)
+* [March - FutureTech 2023 - Creating a quantum algorithm using Microsoft Q#](https://github.com/Djohnnie/CreatingQuantumAlgorithmUsingQSharp-FutureTech-2023)
+* [March - On .NET Live - Building a Game with .NET and Orleans](https://github.com/Djohnnie/BuildingAGameWithDotNetAndOrleans-OnDotNetLive-2023)
 * [March - KdG Multimedia & Creative Technologies - Technologies of the future - Quantum Computing](https://github.com/Djohnnie/QuantumComputing-KdGTechnologiesOfTheFuture-2023)
 * [February - Swetugg Stockholm 2023 - What is new in .NET 7 and C# 11](https://github.com/Djohnnie/DotNet7-Swetugg-Stockholm-2023)
 * [January - UCLL Tech Inspiration Day - How to write cloud-native .NET applications using Microsoft Orleans](https://github.com/Djohnnie/CloudNativeOrleans-UCLLTechInspirationDay-2023)
@@ -83,6 +86,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * [June - FutureTech 2022 - What is new in .NET 7 and C# 11](https://github.com/Djohnnie/DotNet7-FutureTech-2022)
 * [May - NDC London - Software developers are roller coaster addicts?](https://ndclondon.com/)
 * [May - NDC London - Controlling My Home Sauna Using .NET 6 and MAUI](https://github.com/Djohnnie/ControllingMyHomeSaunaUsingDotNet6AndMaui-NDCLondon-2022)
+* [May - IlionX DevDays 2022 - Azure Quantum & Microsoft Q#](https://github.com/Djohnnie/QSharp-and-AzureQuantum-IlionX-DevDays-2022)
 * [May - DevDays Europe 2022 - Hands-On building Cloud Native applications with .NET 6 and Azure](https://github.com/Djohnnie/CloudNativeApplicationsHandsOn-DevDaysEurope-2022)
 * [April - IlionX DevDays 2022 - Azure Quantum & Microsoft Q#](https://github.com/Djohnnie/QSharp-and-AzureQuantum-IlionX-DevDays-2022)
 * [April - DevDays Europe 2022 - What is new in .NET 6 and the future of .NET](https://github.com/Djohnnie/DotNet6-DevDaysEurope-2022)
