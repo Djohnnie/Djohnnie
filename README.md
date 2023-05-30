@@ -55,6 +55,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ### 2023
 
+* [October - .NET Developer Days 2023 - Hands-On building Cloud Native .NET applications using Microsoft Orleans and Azure](...)
 * [June - CloudLand 2023 - Azure Quantum & Microsoft Q#](https://github.com/Djohnnie/AzureQuantum-and-QSharp-CloudLand-2023)
 * [May - DevSum 2023 - Creating a quantum algorithm using Microsoft Q#](https://github.com/Djohnnie/CreatingQuantumAlgorithmUsingQSharp-DevSum-2023)
 * [May - DevSum 2023 - Hands-On building Cloud Native .NET applications using Microsoft Orleans and AKS](https://github.com/Djohnnie/BuildingCloudNativeApplicationsUsingOrleans-DevSum-2023)
