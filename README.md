@@ -64,7 +64,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * [November - Update Conference Prague 2023 - How to write cloud-native .NET applications using Microsoft Orleans?](...)
 * [November - Build Stuff 2023 - Creating a quantum algorithm using Microsoft Q#](...)
 * [November - VISUG - What is new in .NET 8, ASP.NET 8 and EF 8](...)
-* [October - Swetugg Göteborg - What is new in .NET 8 and C# 12](...)
+* [October - Swetugg Göteborg - What is new in .NET 8 and C# 12](https://github.com/Djohnnie/DotNet8-Swetugg-Gothenburg-2023)
 * [October - .NET Developer Days 2023 - What is new in .NET 8, ASP.NET 8 and EF 8](...)
 * [October - .NET Developer Days 2023 - Creating a quantum algorithm using Microsoft Q#](...)
 * [October - .NET Developer Days 2023 - Hands-On building Cloud Native .NET applications using Microsoft Orleans and Azure](...)
