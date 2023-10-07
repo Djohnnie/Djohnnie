@@ -10,9 +10,9 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * Boardmember for the Belgian Visual Studio User Group [VISUG](https://www.visug.be/)
 * Staying up-to-date with the latest [.NET](https://dotnet.microsoft.com/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) and [Microsoft Azure](https://azure.microsoft.com/en-us/) stuff
 * Learning about quantum computing and the [Microsoft Quantum Development Kit](https://www.microsoft.com/en-us/quantum/development-kit)
-* Having some fun with .NET 7, [Raspberry Pi](https://www.raspberrypi.org/), and home automation
+* Having some fun with .NET 8, [Raspberry Pi](https://www.raspberrypi.org/), and home automation
 * Teaching .NET, C# and quantum computing
-* Playing [Tiny Tina's Wonderlands](https://playwonderlands.2k.com/) together with my wife
+* Playing [Baldur's Gate 3](https://baldursgate3.game/) together with my wife
 
 # My Social Media
 
@@ -66,7 +66,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * [November - VISUG - What is new in .NET 8, ASP.NET 8 and EF 8](...)
 * [October - Swetugg Göteborg - What is new in .NET 8 and C# 12](https://github.com/Djohnnie/DotNet8-Swetugg-Gothenburg-2023)
 * [October - .NET Developer Days 2023 - What is new in .NET 8, ASP.NET 8 and EF 8](...)
-* [October - .NET Developer Days 2023 - Creating a quantum algorithm using Microsoft Q#](...)
+* [October - .NET Developer Days 2023 - Creating a quantum algorithm using Microsoft Q#](https://github.com/Djohnnie/CreatingQuantumAlgorithmUsingQSharp-DotNetDeveloperDays-2023)
 * [October - .NET Developer Days 2023 - Hands-On building Cloud Native .NET applications using Microsoft Orleans and Azure](...)
 * [October - Azure User Group Sweden - Building cloud native applications using Microsoft Orleans](https://github.com/Djohnnie/BuildingCloudNativeApplicationsUsingOrleans-AzureUserGroupSweden.git)
 * [October - AP Hogeschool Antwerpen - Schaalbare .NET applicaties met Microsoft Orleans](https://github.com/Djohnnie/BuildingCloudNativeApplicationsUsingOrleans-APHogeschool-2023)
