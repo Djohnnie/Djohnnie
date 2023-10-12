@@ -60,15 +60,16 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ### 2023
 
-* [November - Update Conference Prague 2023 - What is new in .NET 8 and C# 12](...)
-* [November - Update Conference Prague 2023 - How to write cloud-native .NET applications using Microsoft Orleans?](...)
-* [November - Build Stuff 2023 - Creating a quantum algorithm using Microsoft Q#](...)
+* [November - Azure Community Enthusiasts - Deploy your cloud-native .NET 8 apps to Azure Container Apps](...)
+* [November - Update Conference Prague 2023 - What is new in .NET 8 and C# 12](https://github.com/Djohnnie/DotNet8-UpdateConference-2023)
+* [November - Update Conference Prague 2023 - How to write cloud-native .NET applications using Microsoft Orleans?](https://github.com/Djohnnie/BuildingCloudNativeApplicationsUsingOrleans-UpdateConference-2023)
+* [November - Build Stuff 2023 - Creating a quantum algorithm using Microsoft Q#](https://github.com/Djohnnie/CreatingQuantumAlgorithmUsingQSharp-BuildStuff-2023)
 * [November - VISUG - What is new in .NET 8, ASP.NET 8 and EF 8](https://github.com/Djohnnie/DotNet8-VISUG-2023)
 * [October - Swetugg Göteborg - What is new in .NET 8 and C# 12](https://github.com/Djohnnie/DotNet8-Swetugg-Gothenburg-2023)
 * [October - .NET Developer Days 2023 - What is new in .NET 8, ASP.NET 8 and EF 8](https://github.com/Djohnnie/DotNet8-DotNetDeveloperDays-2023)
 * [October - .NET Developer Days 2023 - Creating a quantum algorithm using Microsoft Q#](https://github.com/Djohnnie/CreatingQuantumAlgorithmUsingQSharp-DotNetDeveloperDays-2023)
 * [October - .NET Developer Days 2023 - Hands-On building Cloud Native .NET applications using Microsoft Orleans and Azure](https://github.com/Djohnnie/BuildingCloudNativeApplicationsUsingOrleans-DotNetDeveloperDays-2023)
-* [October - Azure User Group Sweden - Building cloud native applications using Microsoft Orleans](https://github.com/Djohnnie/BuildingCloudNativeApplicationsUsingOrleans-AzureUserGroupSweden.git)
+* [October - Azure User Group Sweden - Building cloud native applications using Microsoft Orleans](https://github.com/Djohnnie/BuildingCloudNativeApplicationsUsingOrleans-AzureUserGroupSweden)
 * [October - AP Hogeschool Antwerpen - Schaalbare .NET applicaties met Microsoft Orleans](https://github.com/Djohnnie/BuildingCloudNativeApplicationsUsingOrleans-APHogeschool-2023)
 * [August - Welsh Azure User Group - Azure Quantum & Microsoft Q#](https://github.com/Djohnnie/AzureQuantum-and-QSharp-WelshAzureUserGroup)
 * [July - UniPartners - Azure Quantum & Microsoft Q#](https://github.com/Djohnnie/AzureQuantum-and-QSharp-UniPartners-2023)
