@@ -63,8 +63,8 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 * [November - Visug XL - Celebrity Deathmatch: Akka.NET vs Orleans](...)
 * [November - Azure Community Enthusiasts - Deploy your cloud-native .NET 8 apps to Azure Container Apps](...)
-* [November - Update Conference Prague 2023 - What is new in .NET 8 and C# 12](https://github.com/Djohnnie/DotNet8-UpdateConference-2023)
 * [November - Update Conference Prague 2023 - How to write cloud-native .NET applications using Microsoft Orleans?](https://github.com/Djohnnie/BuildingCloudNativeApplicationsUsingOrleans-UpdateConference-2023)
+* [November - Update Conference Prague 2023 - What is new in .NET 8 and C# 12](https://github.com/Djohnnie/DotNet8-UpdateConference-2023)
 * [November - Build Stuff 2023 - Creating a quantum algorithm using Microsoft Q#](https://github.com/Djohnnie/CreatingQuantumAlgorithmUsingQSharp-BuildStuff-2023)
 * [November - Build Stuff Appetizer 2023 - What is new in .NET 8](https://github.com/Djohnnie/DotNet8-BuildStuff-2023)
 * [November - VISUG - What is new in .NET 8, ASP.NET 8 and EF 8](https://github.com/Djohnnie/DotNet8-VISUG-2023)
