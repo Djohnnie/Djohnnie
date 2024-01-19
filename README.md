@@ -57,7 +57,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 ### 2024
 
 * [February - Swetugg Stockholm 2024 - What is new in .NET 8 and C# 12](...)
-* [January - NDC London - Goodbye Azure Kubernetes Service! Hello Azure Container Apps!](...)
+* [January - NDC London - Goodbye Azure Kubernetes Service! Hello Azure Container Apps!](https://github.com/Djohnnie/HelloAzureContainerApps-NDCLondon-2024)
 
 ### 2023
 
