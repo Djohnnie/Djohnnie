@@ -29,8 +29,8 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * [CSharpWars](https://github.com/Djohnnie/CSharpWars) - An educational game to learn C# by scripting a virtual robot that fights in an arena.
 * [CSharpWars-Orleans](https://github.com/Djohnnie/CSharpWars-Orleans) - Rewrite of CSharpWars using Microsoft Orleans
 * [Graphfun](https://github.com/Djohnnie/Graphfun) - A rebuild of my old high school project that draws mathematical functions on the screen.
-* [MijnSauna](https://github.com/Djohnnie/MijnSauna) - A .NET 7 and MAUI application that controls my home sauna.
-* [MijnThuis](https://github.com/Djohnnie/MijnThuis) - A planned application that combines all my smart-home hardware into a single dashboard.
+* [MijnSauna](https://github.com/Djohnnie/MijnSauna) - A MAUI application that controls my home sauna.
+* [MijnThuis](https://github.com/Djohnnie/MijnThuis) - An application that combines all my smart-home hardware into a single dashboard.
 * [MijnKeuken](https://github.com/Djohnnie/MijnKeuken) - A planned application that can be used in the kitches for recipes and shopping lists.
 * [PhotoCarousel](https://github.com/Djohnnie/Photo-Carousel) - An application platform to show my personal pictures on a Samsung The Frame.
 * [LetsEncryptDashboard](https://github.com/Djohnnie/LetsEncryptDashboard) - An application to request and renew LetsEncrypt certificates.
