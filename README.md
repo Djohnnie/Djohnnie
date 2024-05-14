@@ -60,6 +60,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * [June - NDC Oslo 2024 - Goodbye Azure Kubernetes Service! Hello Azure Container Apps!](https://github.com/Djohnnie/HelloAzureContainerApps-NDCOslo-2024)
 * [June - IglooConf Summer Edition 2024 - Creating a quantum algorithm using Microsoft Q#](https://github.com/Djohnnie/CreatingQuantumAlgorithmUsingQSharp-IglooConf-2024)
 * [May - IlionX DevDays 2024 - Creating a quantum algorithm using Microsoft Q#](https://github.com/Djohnnie/CreatingQuantumAlgorithmUsingQSharp-IlionX-DevDays-2024)
+* [May - Microsoft Learn Zero to Hero Community - Building your own AI Agent using Semantic Kernel](https://github.com/Djohnnie/BuildingAnAIAgentUsingSemanticKernel-MicrosoftLearnZeroToHeroCommunity-2024)
 * [May - Techorama Belgium 2024 - Goodbye Azure Kubernetes Service! Hello Azure Container Apps!](https://github.com/Djohnnie/HelloAzureContainerApps-Techorama-2024)
 * [April - Cronos .NET Community 2024 - What is new in .NET and C#](https://github.com/Djohnnie/DotNetAndCSharp-Cronos-Dotnet-Community-2024)
 * [March - KdG Multimedia & Creative Technologies - Technologies of the future - Quantum Computing](https://github.com/Djohnnie/QuantumComputing-KdGTechnologiesOfTheFuture-2024)
