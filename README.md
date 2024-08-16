@@ -32,6 +32,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * [MijnSauna](https://github.com/Djohnnie/MijnSauna) - A MAUI application that controls my home sauna.
 * [MijnThuis](https://github.com/Djohnnie/MijnThuis) - An application that combines all my smart-home hardware into a single dashboard.
 * [MijnKeuken](https://github.com/Djohnnie/MijnKeuken) - A planned application that can be used in the kitches for recipes and shopping lists.
+* [MijnMigraine](https://github.com/Djohnnie/MijnMigraine) - Small Blazor web app to keep track of migraine episodes.
 * [PhotoCarousel](https://github.com/Djohnnie/Photo-Carousel) - An application platform to show my personal pictures on a Samsung The Frame.
 * [LetsEncryptDashboard](https://github.com/Djohnnie/LetsEncryptDashboard) - An application to request and renew LetsEncrypt certificates.
 
