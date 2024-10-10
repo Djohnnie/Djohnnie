@@ -62,6 +62,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * [November - Tunisia DevDays - Goodbye Azure Kubernetes Service! Hello Azure Container Apps!](...)
 * [November - VISUG - What is new in .NET 9 and C# 13](...)
 * [October - .NET DeveloperDays Warsaw 2024 - What is new in .NET and C#](...)
+* [October - Exsertus - Building your own AI Agent using Semantic Kernel](https://github.com/Djohnnie/BuildingAnAIAgentUsingSemanticKernel-Exsertus-2024)
 * [September - Swetugg Göteborg - What is new in .NET and C#](https://github.com/Djohnnie/DotNet9-Swetugg-Gothenburg-2024)
 * [June - .NET DeveloperDays Berlin 2024 - Creating a quantum algorithm using Microsoft Q#](https://github.com/Djohnnie/CreatingQuantumAlgorithmUsingQSharp-DotNetDeveloperDays-Berlin-2024)
 * [June - NDC Oslo 2024 - Goodbye Azure Kubernetes Service! Hello Azure Container Apps!](https://github.com/Djohnnie/HelloAzureContainerApps-NDCOslo-2024)
