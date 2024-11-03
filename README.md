@@ -12,7 +12,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * Learning about quantum computing and the [Microsoft Quantum Development Kit](https://www.microsoft.com/en-us/quantum/development-kit)
 * Having some fun with .NET 8, [Raspberry Pi](https://www.raspberrypi.org/), and home automation
 * Teaching .NET, C# and quantum computing
-* Playing [Baldur's Gate 3](https://baldursgate3.game/) together with my wife
+* Playing [For The King II](https://curvegames.com/our-games/for-the-king-ii/), [Demeo](https://www.resolutiongames.com/demeo) and [Arizona Sunshine](https://www.arizona-sunshine.com/) together with my wife
 
 # My Social Media
 
@@ -35,6 +35,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * [MijnMigraine](https://github.com/Djohnnie/MijnMigraine) - Small Blazor web app to keep track of migraine episodes.
 * [PhotoCarousel](https://github.com/Djohnnie/Photo-Carousel) - An application platform to show my personal pictures on a Samsung The Frame.
 * [LetsEncryptDashboard](https://github.com/Djohnnie/LetsEncryptDashboard) - An application to request and renew LetsEncrypt certificates.
+* [Djohnnie.SolarEdge.ModBus.TCP](https://github.com/Djohnnie/Djohnnie.SolarEdge.ModBus.TCP) - A NuGet package to communicate with SolarEdge Inverters using Modbus over TCP.
 
 ## Personal Learning
 
@@ -54,6 +55,12 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * [Introducing Microsoft Quantum Computing for Developers](https://link.springer.com/book/10.1007/978-1-4842-7246-6) ([GitHub](https://github.com/Djohnnie/Introducing-Microsoft-Quantum-Computing-For-Developers))
 
 ## Presentations and Events
+
+### 2025
+
+* [January - Bitbash 2025 - Creating a quantum algorithm using Microsoft Q#](...)
+* [February - Swetugg Stockholm 2025 - What is new in .NET and C#](...)
+* [May - dotnetdays 2025 - Building your own AI Agent using Semantic Kernel](...)
 
 ### 2024
 
