@@ -65,6 +65,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 ### 2024
 
 * [December - CloudBrew - Deploy your cloud-native .NET 9 apps to Azure Container Apps](...)
+* [November - DotnetFriday - What is new in .NET 9 and C# 13](...)
 * [November - .NET Conf 2024 - How I used .NET 9 and AI to charge my electric car based on the available solar power](...)
 * [November - Tunisia DevDays - Goodbye Azure Kubernetes Service! Hello Azure Container Apps!](https://github.com/Djohnnie/HelloAzureContainerApps-TunisiaDevDays-2024)
 * [November - VISUG - What is new in .NET 9 and C# 13](https://github.com/Djohnnie/DotNet9-VISUG-2024)
