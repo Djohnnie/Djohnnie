@@ -58,9 +58,9 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ### 2025
 
-* [January - Bitbash 2025 - Creating a quantum algorithm using Microsoft Q#](...)
-* [February - Swetugg Stockholm 2025 - What is new in .NET and C#](...)
 * [May - dotnetdays 2025 - Building your own AI Agent using Semantic Kernel](...)
+* [February - Swetugg Stockholm 2025 - What is new in .NET and C#](...)
+* [January - Bitbash 2025 - Creating a quantum algorithm using Microsoft Q#](...)
 
 ### 2024
 
