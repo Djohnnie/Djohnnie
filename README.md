@@ -65,6 +65,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 ### 2024
 
 * [December - CloudBrew - Deploy your cloud-native .NET 9 apps to Azure Container Apps](...)
+* [December - On .NET Live - Enable GenAI in your applications using .NET 9 and Semantic Kernel](...)
 * [November - DotnetFriday - What is new in .NET 9 and C# 13](https://github.com/Djohnnie/DotNet9-DotnetFriday-2024)
 * [November - .NET Conf 2024 - How I used .NET 9 and AI to charge my electric car based on the available solar power](https://github.com/Djohnnie/MyHome-DotNetConf-2020)
 * [November - Tunisia DevDays - Goodbye Azure Kubernetes Service! Hello Azure Container Apps!](https://github.com/Djohnnie/HelloAzureContainerApps-TunisiaDevDays-2024)
