@@ -59,9 +59,10 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 ### 2025
 
 * [May - dotnetdays 2025 - Building your own AI Agent using Semantic Kernel](...)
-* [February - Swetugg Stockholm 2025 - What is new in .NET and C#](...)
-* [January - Bitbash 2025 - Creating a quantum algorithm using Microsoft Q#](...)
-* [January - UniPartners - Introduction to .NET and ASP.NET WebApi](...)
+* [February - Swetugg Stockholm 2025 - What is new in .NET and C#](https://github.com/Djohnnie/DotNet9-Swetugg-Stockholm-2025)
+* [January - Bitbash 2025 - Creating a quantum algorithm using Microsoft Q#](https://github.com/Djohnnie/CreatingQuantumAlgorithmUsingQSharp-BitBash-2025)
+* [January - UniPartners - Introduction to .NET and ASP.NET WebApi](https://github.com/Djohnnie/IntroductionToDotNetAndWebApi-UniPartners-2025)
+* [Januari - Deloitte - What is new in .NET 9 and C# 13](https://github.com/Djohnnie/DotNet9-Deloitte-2025)
 
 ### 2024
 
