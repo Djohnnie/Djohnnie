@@ -58,6 +58,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ### 2025
 
+* [July - CloudLand 2025 - How comfortable are you with quantum computing?](...)
 * [June - Nerdland Festival 2025 - De kracht van kwantumcomputers](...)
 * [May - Update Conference Krakow 2025 - Goodbye Azure Kubernetes Service! Hello Azure Container Apps!](...)
 * [May - Update Conference Krakow 2025 - Building cloud native applications using Microsoft Orleans!](...)
