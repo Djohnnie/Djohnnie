@@ -64,6 +64,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * [May - Update Conference Krakow 2025 - Building cloud native applications using Microsoft Orleans!](...)
 * [May - dotnetdays 2025 - Building your own AI Agent using Semantic Kernel](...)
 * [April - Cronos .NET Community Event - Building your own AI Agent using Semantic Kernel](https://github.com/Djohnnie/BuildingAnAIAgentUsingSemanticKernel-Cronos-Dotnet-Community-2025)
+* [April - Configuration and Options - Involved Café April 2025](https://github.com/Djohnnie/DotNet9-DevCampNoord-2025) based on the [original talk from Pieter Samyn](https://github.com/PhbsSmn/configuration-and-options)
 * [April - devCampNoord 2025 - What is new in .NET and C#?](https://github.com/Djohnnie/DotNet9-DevCampNoord-2025)
 * [March - Heijmans - Introduction to Quantum Computing and Q#](https://github.com/Djohnnie/IntroductionToQuantumComputing-Heijmans-2025)
 * [March - FutureTech 2025 - How I used .NET 9 and GenAI to charge my electric car](https://github.com/Djohnnie/MyHome-FutureTech-2025)
