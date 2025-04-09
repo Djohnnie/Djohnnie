@@ -66,7 +66,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * [May - How comfortable are you with quantum computing - Team Rockstars IT - 's Hertogenbosch](https://github.com/Djohnnie/QuantumComputing-and-QSharp-TeamRockstarsIT-2025)
 * [May - dotnetdays 2025 - Building your own AI Agent using Semantic Kernel](...)
 * [April - Cronos .NET Community Event - Building your own AI Agent using Semantic Kernel](https://github.com/Djohnnie/BuildingAnAIAgentUsingSemanticKernel-Cronos-Dotnet-Community-2025)
-* [April - Configuration and Options - Involved Café April 2025](https://github.com/Djohnnie/DotNet9-DevCampNoord-2025) based on the [original talk from Pieter Samyn](https://github.com/PhbsSmn/configuration-and-options)
+* [April - Configuration and Options - Involved Café April 2025](https://github.com/Djohnnie/ConfigurationAndOptions-InvolvedCafe-2025-04) based on the [original talk from Pieter Samyn](https://github.com/PhbsSmn/configuration-and-options)
 * [April - How comfortable are you with quantum computing - Team Rockstars IT - Rotterdam](https://github.com/Djohnnie/QuantumComputing-and-QSharp-TeamRockstarsIT-2025)
 * [April - devCampNoord 2025 - What is new in .NET and C#?](https://github.com/Djohnnie/DotNet9-DevCampNoord-2025)
 * [March - Heijmans - Introduction to Quantum Computing and Q#](https://github.com/Djohnnie/IntroductionToQuantumComputing-Heijmans-2025)
