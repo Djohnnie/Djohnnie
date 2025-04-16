@@ -10,13 +10,13 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * Boardmember for the Belgian Visual Studio User Group [VISUG](https://www.visug.be/)
 * Staying up-to-date with the latest [.NET](https://dotnet.microsoft.com/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) and [Microsoft Azure](https://azure.microsoft.com/en-us/) stuff
 * Learning about quantum computing and the [Microsoft Quantum Development Kit](https://www.microsoft.com/en-us/quantum/development-kit)
-* Having some fun with .NET 8, [Raspberry Pi](https://www.raspberrypi.org/), and home automation
+* Having some fun with .NET, [Raspberry Pi](https://www.raspberrypi.org/), and home automation
 * Teaching .NET, C# and quantum computing
 * Playing [For The King II](https://curvegames.com/our-games/for-the-king-ii/), [Demeo](https://www.resolutiongames.com/demeo) and [Arizona Sunshine](https://www.arizona-sunshine.com/) together with my wife
 
 # My Social Media
 
-* [Twitter](https://twitter.com/djohnnieke)
+* [Bluesky](https://bsky.app/profile/djohnnie.joho.me)
 * [LinkedIn](https://www.linkedin.com/in/johnnyhooyberghs)
 * [Sessionize](https://sessionize.com/johnnyhooyberghs)
 * [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003819?fullName=Johnny%20Hooyberghs)
