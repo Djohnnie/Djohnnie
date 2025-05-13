@@ -58,6 +58,9 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ### 2025
 
+* [November - Tunisia Dev Days - What is new in .NET and C#?](...)
+* [November - Tunisia Dev Days - Hands-on building and deploying cloud-native distributed applications using Azure Container Apps](...)
+* [September - NDC Copenhagen - Building your own AI Agent using Semantic Kernel](...)
 * [July - CloudLand 2025 - How comfortable are you with quantum computing?](...)
 * [June - Nerdland Festival 2025 - De kracht van kwantumcomputers](...)
 * [June - How comfortable are you with quantum computing - Team Rockstars IT - Klarenbeek](https://github.com/Djohnnie/QuantumComputing-and-QSharp-TeamRockstarsIT-2025)
