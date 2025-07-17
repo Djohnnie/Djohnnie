@@ -29,6 +29,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * [CSharpWars](https://github.com/Djohnnie/CSharpWars) - An educational game to learn C# by scripting a virtual robot that fights in an arena.
 * [CSharpWars-Orleans](https://github.com/Djohnnie/CSharpWars-Orleans) - Rewrite of CSharpWars using Microsoft Orleans
 * [Graphfun](https://github.com/Djohnnie/Graphfun) - A rebuild of my old high school project that draws mathematical functions on the screen.
+* [MijnCopilot](https://github.com/Djohnnie/MijnCopilot) - My own custom ChatGPT.
 * [MijnSauna](https://github.com/Djohnnie/MijnSauna) - A MAUI application that controls my home sauna.
 * [MijnThuis](https://github.com/Djohnnie/MijnThuis) - An application that combines all my smart-home hardware into a single dashboard.
 * [MijnKeuken](https://github.com/Djohnnie/MijnKeuken) - A planned application that can be used in the kitches for recipes and shopping lists.
