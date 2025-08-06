@@ -44,8 +44,8 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * [OrleansSnake](https://github.com/Djohnnie/OrleansSnake)
 * [Microsoft Q# Coding Contest - Summer 2018 - Warmup](https://github.com/Djohnnie/Microsoft-Quantum-Coding-Contest-Summer-2018-Warmup)
 * [Microsoft Q# Coding Contest - Summer 2018](https://github.com/Djohnnie/Microsoft-Quantum-Coding-Contest-Summer-2018)
-* [Microsoft Q# Coding Contest - Summer 2019 - Warmup](https://github.com/Djohnnie/Microsoft-Quantum-Coding-Contest-Summer-2019-Warmup)
-* [Microsoft Q# Coding Contest - Summer 2019](https://github.com/Djohnnie/Microsoft-Quantum-Coding-Contest-Summer-2019)
+* [Microsoft Q# Coding Contest - Winter 2019 - Warmup](https://github.com/Djohnnie/Microsoft-Quantum-Coding-Contest-Winter-2019-Warmup)
+* [Microsoft Q# Coding Contest - Winter 2019](https://github.com/Djohnnie/Microsoft-Quantum-Coding-Contest-Winter-2019)
 * [Microsoft Q# Coding Contest - Summer 2020 - Warmup](https://github.com/Djohnnie/Microsoft-Quantum-Coding-Contest-Summer-2020-Warmup)
 * [Microsoft Q# Coding Contest - Summer 2020](https://github.com/Djohnnie/Microsoft-Quantum-Coding-Contest-Summer-2020)
 
