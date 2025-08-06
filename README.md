@@ -66,6 +66,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * [December - CloudBrew - Creating a quantum algorithm using Microsoft Q#](...)
 * [November - Tunisia Dev Days - What is new in .NET and C#?](...)
 * [November - Tunisia Dev Days - Hands-on building and deploying cloud-native distributed applications using Azure Container Apps](...)
+* [October - VISUG - What is new in .NET 10 and C# 14](...)
 * [October - Azure Dev Summit - Creating a quantum algorithm using Microsoft Q#](...)
 * [September - NDC Copenhagen - Building your own AI Agent using Semantic Kernel](...)
 * [September - Cronos/Microsoft/Pasqal - Quantum Summer Lab 2025](https://github.com/Djohnnie/Quantum-Summer-Lab-2025)
