@@ -68,7 +68,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * [November - Tunisia Dev Days - Hands-on building and deploying cloud-native distributed applications using Azure Container Apps](...)
 * [October - VISUG - What is new in .NET 10 and C# 14](...)
 * [October - Azure Dev Summit - Creating a quantum algorithm using Microsoft Q#](...)
-* [September - NDC Copenhagen - Building your own AI Agent using Semantic Kernel](...)
+* [September - NDC Copenhagen - Building your own AI Agent using Semantic Kernel](https://github.com/Djohnnie/BuildingAnAIAgentUsingSemanticKernel-NDCCopenhagen-2025)
 * [September - Cronos/Microsoft/Pasqal - Quantum Summer Lab 2025](https://github.com/Djohnnie/Quantum-Summer-Lab-2025)
 * [July - CloudLand 2025 - How comfortable are you with quantum computing?](https://github.com/Djohnnie/AreYouComfortableWithQuantumComputing-Cloudland-2025)
 * [June - Nerdland Festival 2025 - De kracht van kwantumcomputers](https://github.com/Djohnnie/DeKrachtVanKwantumComputers-NerdlandFestival-2025)
