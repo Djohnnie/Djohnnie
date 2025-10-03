@@ -222,13 +222,13 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ### 2019
 
-* **7** [December - VISUG - What is new in .NET Core 3.0 & 3.1](https://github.com/Djohnnie/VISUG-2019-DotNetCore3)
-* **6** [October - .NET Developer Days - Building an Educational Game with .NET Core](https://github.com/Djohnnie/CSharpWars-DotNetDeveloperDays-2019)
-* **5** [October - .NET Developer Days - Quantum Computing](https://github.com/Djohnnie/QuantumComputing-DotNetDeveloperDays-2019)
-* **4** [September - ProgNET London - Building an Educational Game with .NET Core](https://github.com/Djohnnie/CSharpWars-ProgNET-London-2019)
-* **3** [May - Techorama - Building an Educational Game with .NET Core](https://github.com/Djohnnie/CSharpWars)
-* **2** [March - Momentum DevCon](https://github.com/Djohnnie/presentations-2019)
-* **1** [February - VISUG - Quantum Computing Deep Dive](https://github.com/Djohnnie/QuantumComputingQSharpIntroduction2018)
+* **-7-** [December - VISUG - What is new in .NET Core 3.0 & 3.1](https://github.com/Djohnnie/VISUG-2019-DotNetCore3)
+* **-6-** [October - .NET Developer Days - Building an Educational Game with .NET Core](https://github.com/Djohnnie/CSharpWars-DotNetDeveloperDays-2019)
+* **-5-** [October - .NET Developer Days - Quantum Computing](https://github.com/Djohnnie/QuantumComputing-DotNetDeveloperDays-2019)
+* **-4-** [September - ProgNET London - Building an Educational Game with .NET Core](https://github.com/Djohnnie/CSharpWars-ProgNET-London-2019)
+* **-3-** [May - Techorama - Building an Educational Game with .NET Core](https://github.com/Djohnnie/CSharpWars)
+* **-2-** [March - Momentum DevCon](https://github.com/Djohnnie/presentations-2019)
+* **-1-** [February - VISUG - Quantum Computing Deep Dive](https://github.com/Djohnnie/QuantumComputingQSharpIntroduction2018)
 
 ### 2018
 
