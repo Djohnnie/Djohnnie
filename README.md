@@ -65,8 +65,8 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 * [December - On .NET Live - .NET + Q#: Showcasing an educational platform for quantum computing with custom Copilot](...)
 * [December - CloudBrew - Creating a quantum algorithm using Microsoft Q#](...)
-* [November - Umbraco 17 Launch Party - What is new in .NET 10 and C# 14?](...)
-* [October - VISUG - What is new in .NET 10 and C# 14](...)
+* [November - Umbraco 17 Launch Party - What is new in .NET 10 and C# 14?](https://github.com/Djohnnie/DotNet10-Umbraco17LaunchParty)
+* [October - VISUG - What is new in .NET 10 and C# 14](https://github.com/Djohnnie/DotNet10-VISUG-2025)
 * [October - AP Hogeschool - Hallo, Azure Container Apps!](https://github.com/Djohnnie/HalloContainerApps-APHogeschool-2025)
 * [October - Azure Dev Summit - Creating a quantum algorithm using Microsoft Q#](https://github.com/Djohnnie/CreatingQuantumAlgorithmUsingQSharp-AzureDevConf-2025)
 * [September - NDC Copenhagen - Building your own AI Agent using Semantic Kernel](https://github.com/Djohnnie/BuildingAnAIAgentUsingSemanticKernel-NDCCopenhagen-2025)
