@@ -258,7 +258,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 [Johnny does .NET](https://www.youtube.com/channel/UCPvA9d7Ji-k8xbAk9KNemew)
 
-### Season 01 - Focus on .NET [(EN)](https://www.youtube.com/playlist?list=PLZ4lzHXlYC6yP7IXFBmoet0uGhvir7gTi) / [(NL)](https://www.youtube.com/playlist?list=PLZ4lzHXlYC6wwBBxbQj3wZAntTbm4h457)
+### Focus on .NET [(EN)](https://www.youtube.com/playlist?list=PLZ4lzHXlYC6yP7IXFBmoet0uGhvir7gTi) / [(NL)](https://www.youtube.com/playlist?list=PLZ4lzHXlYC6wwBBxbQj3wZAntTbm4h457)
 
 * Episode 01 - .NET introduction [(EN)](https://youtu.be/ZpR88ZdbGXE) / [(NL)](https://youtu.be/jtL8ljZi4AU)
 * Episode 02 - .NET history and future [(EN)](https://youtu.be/1oCxguHCT5w) / [(NL)](https://youtu.be/O4Qcg5Uon4g)
@@ -273,23 +273,3 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 * Episode 11 - .NET Worker Service applications [(EN)](https://youtu.be/ebOsNY6J-Qo) / [(NL)](https://youtu.be/0MZ7dwjB8uM)
 * Episode 12 - .NET Mobile applications using MAUI [(EN)](https://youtu.be/qzZdzz0jk6s) / [(NL)](https://youtu.be/xndh-IJyIEg)
 * Episode 13 - Which fun.NET applications have I built in the past? [(EN)](https://youtu.be/_pKWsw0ud4Y) / [(NL)](https://youtu.be/xY3onRmRu_8)
-
-### Season 02 - Focus on C# [(EN)](https://www.youtube.com/playlist?list=PLZ4lzHXlYC6zWUvjTNkJoX5ol6BJAf_1K) / [(NL)](https://www.youtube.com/playlist?list=PLZ4lzHXlYC6yDfVrrClhX8lBDIMrA7oMK)
-
-* Episode 01 - 
-* Episode 02 - 
-* Episode 03 - 
-* Episode 04 - 
-* Episode 05 - 
-* Episode 06 - 
-* Episode 07 - 
-* Episode 08 - 
-* Episode 09 - 
-* Episode 10 - 
-* Episode 11 - 
-* Episode 12 - 
-* Episode 13 - 
-
-### Shorts
-
-* Short 001 - ...
