@@ -69,7 +69,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ### 2025
 
-* [December - On .NET Live - .NET + Q#: Showcasing an educational platform for quantum computing with custom Copilot](...)
+* [December - On .NET Live - .NET + Q#: Showcasing an educational platform for quantum computing with custom Copilot](https://github.com/Djohnnie/Quantum-Summer-Lab-2025)
 * [December - CloudBrew - Creating a quantum algorithm using Microsoft Q#](https://github.com/Djohnnie/CreatingQuantumAlgorithmUsingQSharp-CloudBrew-2025)
 * [December - KdG - Hoe ga je als softwareontwikkelaar om met AI-tools?](https://github.com/Djohnnie/GenAI-KdG-2025)
 * [November - Umbraco 17 Launch Party - What is new in .NET 10 and C# 14?](https://github.com/Djohnnie/DotNet10-Umbraco17LaunchParty)
