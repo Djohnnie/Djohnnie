@@ -63,8 +63,9 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ### 2026
 
-* [May - Update Conference Krakow 2026 - What is new in .NET and C#?](...)
-* [March - FutureTech 2026 - Enable GenAI in your applications using .NET, Azure and the Microsoft Agent Framework](...)
+* [May - Update Conference Krakow 2026 - What is new in .NET and C#?](https://github.com/Djohnnie/DotNet10-UpdateConferenceKrakow-2026)
+* [May - To be announced](...)
+* [March - FutureTech 2026 - Enable GenAI in your applications using .NET, Azure and the Microsoft Agent Framework](https://github.com/Djohnnie/EnableGenAIUsingTheMicrosoftAgentFramework-FutureTech-2026)
 * [February - Swetugg Stockholm 2026 - What is new in .NET and C#?](https://github.com/Djohnnie/DotNet10-Swetugg-Stockholm-2026)
 * [January - Bitbash 2026 - What is new in .NET and C#?](https://github.com/Djohnnie/DotNet10-BitBash-2026)
 
