@@ -51,6 +51,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ## Code Challenges
 
+* [Involved Code Retreat 2026 - MetroMania](https://github.com/Djohnnie/CodeRetreat-2026-MetroMania)
 * [Involved Code Retreat 2022 - RaceRetreat](https://github.com/Djohnnie/Involved-CodeRetreat-2022-RaceRetreat)
 * [Involved Code Retreat 2021 - HexaMazeRetreat](https://github.com/Djohnnie/Involved-CodeRetreat-2021-HexaMazeRetreat)
 * [Involved Code Retreat 2015 - MazeRetreat](https://github.com/Djohnnie/Involved-CodeRetreat-2015-MazeRetreat)
@@ -63,8 +64,10 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ### 2026
 
+* [June - IlionX DevDays 2026 - To be announced](...)
 * [May - Update Conference Krakow 2026 - What is new in .NET and C#?](https://github.com/Djohnnie/DotNet10-UpdateConferenceKrakow-2026)
-* [May - To be announced](...)
+* [May - Nerdland Festival 2026 - To be announced](...)
+* [April - Axxes - Azure Container Apps Workshop](https://github.com/Djohnnie/AzureContainerApps-Workshop-2026)
 * [March - FutureTech 2026 - Enable GenAI in your applications using .NET, Azure and the Microsoft Agent Framework](https://github.com/Djohnnie/EnableGenAIUsingTheMicrosoftAgentFramework-FutureTech-2026)
 * [February - Swetugg Stockholm 2026 - What is new in .NET and C#?](https://github.com/Djohnnie/DotNet10-Swetugg-Stockholm-2026)
 * [January - Bitbash 2026 - What is new in .NET and C#?](https://github.com/Djohnnie/DotNet10-BitBash-2026)
