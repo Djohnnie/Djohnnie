@@ -66,7 +66,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 * [June - IlionX DevDays 2026 - To be announced](...)
 * [May - Update Conference Krakow 2026 - What is new in .NET and C#?](https://github.com/Djohnnie/DotNet10-UpdateConferenceKrakow-2026)
-* [May - Nerdland Festival 2026 - To be announced](...)
+* [May - Nerdland Festival 2026 - De geschiedenis van achtbanen](https://github.com/Djohnnie/DesignVanAchtbanenDoorheenDeGeschiedenis-NerdlandFestival-2026)
 * [April - Cronos .NET community event - What is new in .NET and C#?](https://github.com/Djohnnie/DotNet10-CronosDotnetCommunity-2026)
 * [April - Cronos .NET community event - Enable GenAI in your applications using .NET, Azure and the Microsoft Agent Framework](https://github.com/Djohnnie/EnableGenAIUsingTheMicrosoftAgentFramework-CronosDotnetCommunity-2026)
 * [April - Cronos .NET community event - Goodbye Azure Kubernetes Service! Hello Azure Container Apps!](https://github.com/Djohnnie/HelloAzureContainerApps-CronosDotnetCommunity-2026)
