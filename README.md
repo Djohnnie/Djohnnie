@@ -64,6 +64,9 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ### 2026
 
+* [November - To Be Announced](...)
+* [October - To Be Announced](...)
+* [July - Microsoft/Cronos - EUMaster4HPC Summer School 2026](https://github.com/Djohnnie/Quantum-Summer-Lab-2026)
 * [June - IlionX DevDays 2026 - To be announced](...)
 * [May - Update Conference Krakow 2026 - What is new in .NET and C#?](https://github.com/Djohnnie/DotNet10-UpdateConferenceKrakow-2026)
 * [May - Nerdland Festival 2026 - De geschiedenis van achtbanen](https://github.com/Djohnnie/DesignVanAchtbanenDoorheenDeGeschiedenis-NerdlandFestival-2026)
