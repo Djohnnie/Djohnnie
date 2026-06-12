@@ -64,19 +64,19 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ### 2026
 
-* [November - To Be Announced](...)
-* [October - To Be Announced](...)
+* [November - Øredev - Enable GenAI in your applications using .NET, Azure and the Microsoft Agent Framework](...)
+* [October - .NET Developer Days Warsaw - Hands-on building GenAI enabled .NET applications using the Microsoft Agent Framework](...)
 * [July - Microsoft/Cronos - EUMaster4HPC Summer School 2026](https://github.com/Djohnnie/Quantum-Summer-Lab-2026)
-* [June - IlionX DevDays 2026 - To be announced](...)
-* [May - Update Conference Krakow 2026 - What is new in .NET and C#?](https://github.com/Djohnnie/DotNet10-UpdateConferenceKrakow-2026)
-* [May - Nerdland Festival 2026 - De geschiedenis van achtbanen](https://github.com/Djohnnie/DesignVanAchtbanenDoorheenDeGeschiedenis-NerdlandFestival-2026)
+* [June - IlionX DevDays - Enable GenAI in your applications using .NET, Azure and the Microsoft Agent Framework](...)
+* [May - Update Conference Krakow - What is new in .NET and C#?](https://github.com/Djohnnie/DotNet10-UpdateConferenceKrakow-2026)
+* [May - Nerdland Festival - De geschiedenis van achtbanen](https://github.com/Djohnnie/DesignVanAchtbanenDoorheenDeGeschiedenis-NerdlandFestival-2026)
 * [April - Cronos .NET community event - What is new in .NET and C#?](https://github.com/Djohnnie/DotNet10-CronosDotnetCommunity-2026)
 * [April - Cronos .NET community event - Enable GenAI in your applications using .NET, Azure and the Microsoft Agent Framework](https://github.com/Djohnnie/EnableGenAIUsingTheMicrosoftAgentFramework-CronosDotnetCommunity-2026)
 * [April - Cronos .NET community event - Goodbye Azure Kubernetes Service! Hello Azure Container Apps!](https://github.com/Djohnnie/HelloAzureContainerApps-CronosDotnetCommunity-2026)
 * [April - Axxes - Azure Container Apps Workshop](https://github.com/Djohnnie/AzureContainerApps-Workshop-2026)
-* [March - FutureTech 2026 - Enable GenAI in your applications using .NET, Azure and the Microsoft Agent Framework](https://github.com/Djohnnie/EnableGenAIUsingTheMicrosoftAgentFramework-FutureTech-2026)
-* [February - Swetugg Stockholm 2026 - What is new in .NET and C#?](https://github.com/Djohnnie/DotNet10-Swetugg-Stockholm-2026)
-* [January - Bitbash 2026 - What is new in .NET and C#?](https://github.com/Djohnnie/DotNet10-BitBash-2026)
+* [March - FutureTech - Enable GenAI in your applications using .NET, Azure and the Microsoft Agent Framework](https://github.com/Djohnnie/EnableGenAIUsingTheMicrosoftAgentFramework-FutureTech-2026)
+* [February - Swetugg Stockholm - What is new in .NET and C#?](https://github.com/Djohnnie/DotNet10-Swetugg-Stockholm-2026)
+* [January - Bitbash - What is new in .NET and C#?](https://github.com/Djohnnie/DotNet10-BitBash-2026)
 
 ### 2025
 
