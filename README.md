@@ -62,6 +62,12 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ## Presentations and Events
 
+### 2027
+
+* [January - NDC London - Qubits Are Vectors Too: The Math Behind Quantum Computing](...)
+* [January - NDC London - Qubits, Code & Competition: A Hands-On Microsoft Q# Workshop](...)
+* [January - BitBash - What is new in .NET and C#](...)
+
 ### 2026
 
 * [December - CloudBrew - Qubits Are Vectors Too: The Math Behind Quantum Computing](...)
