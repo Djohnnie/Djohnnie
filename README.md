@@ -64,13 +64,14 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 
 ### 2027
 
-* [January - NDC London - Qubits Are Vectors Too: The Math Behind Quantum Computing](...)
+* [February - Swetugg Stockholm - What is new in .NET and C#](https://github.com/Djohnnie/DotNet11-Swetugg-Stockholm-2027)
+* [January - NDC London - Qubits Are Vectors Too: The Math Behind Quantum Computing](https://github.com/Djohnnie/QubitsAreVectorsToo-NDC-London-2027)
 * [January - NDC London - Qubits, Code & Competition: A Hands-On Microsoft Q# Workshop](...)
-* [January - BitBash - What is new in .NET and C#](...)
+* [January - BitBash - What is new in .NET and C#](https://github.com/Djohnnie/DotNet11-BitBash-2027)
 
 ### 2026
 
-* [December - CloudBrew - Qubits Are Vectors Too: The Math Behind Quantum Computing](...)
+* [December - CloudBrew - Qubits Are Vectors Too: The Math Behind Quantum Computing](https://github.com/Djohnnie/QubitsAreVectorsToo-CloudBrew-2026)
 * [November - Øredev - Enable GenAI in your applications using .NET, Azure and the Microsoft Agent Framework](...)
 * [October - .NET Developer Days Warsaw - What is new in .NET and C#?](https://github.com/Djohnnie/DotNet11-DotNetDeveloperDays-Warsaw-2026)
 * [October - .NET Developer Days Warsaw - Qubits Are Vectors Too: The Math Behind Quantum Computing](https://github.com/Djohnnie/QubitsAreVectorsToo-DotNetDeveloperDays-Warsaw-2026)
