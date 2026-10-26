@@ -72,7 +72,7 @@ Johnny Hooyberghs is a consultant for [Involved](https://www.involved-it.be/) si
 ### 2026
 
 * [December - CloudBrew - Qubits Are Vectors Too: The Math Behind Quantum Computing](https://github.com/Djohnnie/QubitsAreVectorsToo-CloudBrew-2026)
-* [November - Øredev - Enable GenAI in your applications using .NET, Azure and the Microsoft Agent Framework](...)
+* [November - Øredev - Enable GenAI in your applications using .NET, Azure and the Microsoft Agent Framework](https://github.com/Djohnnie/TheMicrosoftAgentFramework--redev-2026)
 * [October - .NET Developer Days Warsaw - What is new in .NET and C#?](https://github.com/Djohnnie/DotNet11-DotNetDeveloperDays-Warsaw-2026)
 * [October - .NET Developer Days Warsaw - Qubits Are Vectors Too: The Math Behind Quantum Computing](https://github.com/Djohnnie/QubitsAreVectorsToo-DotNetDeveloperDays-Warsaw-2026)
 * [October - .NET Developer Days Warsaw - Hands-on building GenAI enabled .NET applications using the Microsoft Agent Framework](https://github.com/Djohnnie/MicrosoftAgentFrameworkWorkshop-DotNetDeveloperDays-Warsaw-2026)
